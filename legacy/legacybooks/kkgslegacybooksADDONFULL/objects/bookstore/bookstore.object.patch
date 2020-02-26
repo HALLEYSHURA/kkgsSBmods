@@ -1,0 +1,703 @@
+[
+	[
+	  { "op": "add",
+		"path": "/interactData/modTab/-",
+		"value": {
+		  "file": "/interface/kkgslegacylorebs/tabicon_legacykkgs.png",
+		  "label": "Legacy",
+		  "filter": [ "legacy" ]
+		}
+	  },
+	  {
+		"op": "add",
+		"path": "/storeInventory/legacy",
+		"value": []
+	  }
+	],
+	
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsapexadvert-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsapexannoyance-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsapexapeposter-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsapexapology-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsapexcasebook-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsapexchant-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsapexchildsrhyme-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsapexfolktale-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsapexhistory-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsapexissuereport-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsapexlabblog1-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsapexlabblog2-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsapexlabblog3-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsapexlabblog4-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsapexlabblog5-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsapexmeeting-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsapexscrawlednote-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsincarcerusproject-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgshirakiapexfriends-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgshirakiaviantemple-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgshirakiawakening-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgshirakibunker-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgshirakifightorflight-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgshirakiglitchindiv-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgshirakiglitchoutcasts-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgshirakiironavian-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgshirakipleasanttown-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgshirakisewerstrange-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgshirakitowerbeverage-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsavianburials-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsavianchildrenofkluex-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsavianclippedcouncil-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsaviancommandments-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsaviancrystals-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsavianexile-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsavianflightpropa-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsaviangroundeddiary1-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsaviangroundeddiary2-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsaviangroundeddiary3-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsaviangroundpropa-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsavianhawkwings1-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsavianhawkwings2-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsavianherodiary-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsavianlustymaid-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsavianmechanicdiary-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsaviannotesfromground-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsavianprayer1-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsavianprayer2-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsavianprayer3-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsaviansacrifice-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsaviansailordiary-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsavianshipshanty-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsavianspeciesandgods-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsaviantexts-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsaviantombdiary-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsaviantornnote-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsaviantowerresults-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsthornwingnovel-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsfloranambitions-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsfloranapexj-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsfloranartofstabbing-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsfloranbiology-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsfloranbonedragon-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsflorandrysap-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsfloraneducation-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsfloranettiquete-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsfloranglitchjournal1-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsfloranglitchjournal2-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsflorangreenjournal-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsflorangreennote-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsfloranpeace-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsfloranpracticebook-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsfloranthetrial-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsflorantranscript-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsflorantreestabinterview-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsflorantreetops-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgshumanprisondiary-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgshumansurvivalguide-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgshumanuscmlog1-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgshumanuscmlog2-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgshumanuscmlog3-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgshumanuscmlog4-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgshumanuscmlog5-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgshumanuscmorders-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsprisoncasebook-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsuscmhandbook-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsglitchattention-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsglitchcasebook1-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsglitchcasebook2-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsglitchdirective-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsglitchfatalcircuit-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsglitchhandwrittennote-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsglitchoutcastjournal-codex" 
+	  } 
+	],	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsglitchplatinum-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsglitchsteelcasebook-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsmodernpometheus-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgssewerbestiary-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgswouldbekinguncut-codex" 
+	  } 
+	]
+]

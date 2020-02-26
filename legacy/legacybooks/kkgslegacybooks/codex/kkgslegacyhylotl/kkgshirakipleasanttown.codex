@@ -1,0 +1,20 @@
+{
+  "id" : "kkgshirakipleasanttown",
+  "title" : "A Pleasant Town ^yellow;¤^reset;",
+  "species" : "hylotl",
+  "description" : "An excerpt from Hylotl Adventurer Hiraki Corale's journal.",
+  "icon" : "hirakicoralejournal1l.png",
+  "contentPages" : [
+
+    "by Hiraki Corale, Hylotl Adventurer
+
+I find myself in a Miniknog-controlled Apex town. But oh, control is such an ugly word, isn't it? The Apex here are all so polite, and friendly. They bow and grovel as I pass, my escort only occasionally having to knock them back!",
+
+"It's all very exciting. An audience with the Miniknog! The guards told me they've heard about my exploits, and some of the scientists would like to pick my brain. I mean gosh, I've heard rumours about the Miniknog picking peoples' brains, but I don't think it means that this time."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Uncommon",
+    "price" : 75
+  }
+}

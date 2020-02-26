@@ -1,0 +1,88 @@
+[
+	[
+	  { "op": "add",
+		"path": "/interactData/modTab/-",
+		"value": {
+		  "file": "/interface/kkgslegacylorebs/tabicon_legacykkgs.png",
+		  "label": "Legacy",
+		  "filter": [ "legacy" ]
+		}
+	  },
+	  {
+		"op": "add",
+		"path": "/storeInventory/legacy",
+		"value": []
+	  }
+	],
+	
+	[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsthornwingnovel-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsavianhawkwings1-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsavianburials-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgshumansurvivalguide-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgssewerbestiary-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsfloranthetrial-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsflorantreestabinterview-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgswouldbekinguncut-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsfloranbonedragon-codex" 
+	  } 
+	],
+		[
+	  {
+	  "op": "add",
+	  "path": "/storeInventory/legacy/-",
+	  "value": "kkgsfloranartofstabbing-codex" 
+	  } 
+	]
+]

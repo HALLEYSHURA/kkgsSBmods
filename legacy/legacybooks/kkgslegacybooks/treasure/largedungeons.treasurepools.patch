@@ -1,0 +1,643 @@
+[
+{"op":"add",
+    "path":"/apextestfacilityLore/0/1/pool/-",
+    "value": {"weight" : 0.02, "item" : "kkgsincarcerusproject-codex"}
+},
+{"op":"add",
+    "path":"/apextestfacilityLore/0/1/pool/-",
+    "value": {"weight" : 0.15, "item" : "kkgsapexadvert-codex"}
+},
+{"op":"add",
+    "path":"/apextestfacilityLore/0/1/pool/-",
+    "value": {"weight" : 0.15, "item" : "kkgsapexapeposter-codex"}
+},
+{"op":"add",
+    "path":"/apextestfacilityLore/0/1/pool/-",
+    "value": {"weight" : 0.10, "item" : "kkgsapexapology-codex"}
+},
+{"op":"add",
+    "path":"/apextestfacilityLore/0/1/pool/-",
+    "value": {"weight" : 0.06, "item" : "kkgsapexlabblog1-codex"}
+},
+{"op":"add",
+    "path":"/apextestfacilityLore/0/1/pool/-",
+    "value": {"weight" : 0.06, "item" : "kkgsapexlabblog2-codex"}
+},
+{"op":"add",
+    "path":"/apextestfacilityLore/0/1/pool/-",
+    "value": {"weight" : 0.06, "item" : "kkgsapexlabblog3-codex"}
+},
+{"op":"add",
+    "path":"/apextestfacilityLore/0/1/pool/-",
+    "value": {"weight" : 0.06, "item" : "kkgsapexlabblog4-codex"}
+},
+{"op":"add",
+    "path":"/apextestfacilityLore/0/1/pool/-",
+    "value": {"weight" : 0.06, "item" : "kkgsapexlabblog5-codex"}
+},
+{"op":"add",
+    "path":"/apextestfacilityLore/0/1/pool/-",
+    "value": {"weight" : 0.10, "item" : "kkgsapexscrawlednote-codex"}
+},
+{"op":"add",
+    "path":"/apexbaseLore/0/1/pool/-",
+    "value": {"weight" : 0.02, "item" : "kkgsincarcerusproject-codex"}
+},
+{"op":"add",
+    "path":"/apexbaseLore/0/1/pool/-",
+    "value": {"weight" : 0.13, "item" : "kkgsapexannoyance-codex"}
+},
+{"op":"add",
+    "path":"/apexbaseLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsapexapeposter-codex"}
+},
+{"op":"add",
+    "path":"/apexbaseLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsapexchant-codex"}
+},
+{"op":"add",
+    "path":"/apexbaseLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsapexfolktale-codex"}
+},
+{"op":"add",
+    "path":"/apexbaseLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsapexhistory-codex"}
+},
+{"op":"add",
+    "path":"/apexbaseLore/0/1/pool/-",
+    "value": {"weight" : 0.13, "item" : "kkgsapexissuereport-codex"}
+},
+{"op":"add",
+    "path":"/apexbaseLore/0/1/pool/-",
+    "value": {"weight" : 0.13, "item" : "kkgsapexmeeting-codex"}
+},
+{"op":"add",
+    "path":"/apexcampLore/0/1/pool/-",
+    "value": {"weight" : 0.13, "item" : "kkgsapexannoyance-codex"}
+},
+{"op":"add",
+    "path":"/apexcampLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsapexcasebook-codex"}
+},
+{"op":"add",
+    "path":"/apexcampLore/0/1/pool/-",
+    "value": {"weight" : 0.13, "item" : "kkgsapexissuereport-codex"}
+},
+{"op":"add",
+    "path":"/apexcampLore/0/1/pool/-",
+    "value": {"weight" : 0.13, "item" : "kkgsapexmeeting-codex"}
+},
+{"op":"add",
+    "path":"/apexcampLore/0/1/pool/-",
+    "value": {"weight" : 0.10, "item" : "kkgshirakiapexfriends-codex"}
+},
+{"op":"add",
+    "path":"/apexcityLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsapexadvert-codex"}
+},
+{"op":"add",
+    "path":"/apexcityLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsapexapeposter-codex"}
+},
+{"op":"add",
+    "path":"/apexcityLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsapexcasebook-codex"}
+},
+{"op":"add",
+    "path":"/apexcityLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsapexchant-codex"}
+},
+{"op":"add",
+    "path":"/apexcityLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsapexchildsrhyme-codex"}
+},
+{"op":"add",
+    "path":"/apexcityLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsapexfolktale-codex"}
+},
+{"op":"add",
+    "path":"/apexcityLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsapexhistory-codex"}
+},
+{"op":"add",
+    "path":"/apexcityLore/0/1/pool/-",
+    "value": {"weight" : 0.10, "item" : "kkgshirakipleasanttown-codex"}
+},
+{"op":"add",
+    "path":"/aviantempleLore/0/1/pool/-",
+    "value": {"weight" : 0.08, "item" : "kkgsavianburials-codex"}
+},
+{"op":"add",
+    "path":"/aviantempleLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsavianchildrenofkluex-codex"}
+},
+{"op":"add",
+    "path":"/aviantempleLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsavianclippedcouncil-codex"}
+},
+{"op":"add",
+    "path":"/aviantempleLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsaviancommandments-codex"}
+},
+{"op":"add",
+    "path":"/aviantempleLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsaviancrystals-codex"}
+},
+{"op":"add",
+    "path":"/aviantempleLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsavianprayer2-codex"}
+},
+{"op":"add",
+    "path":"/aviantempleLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsavianprayer3-codex"}
+},
+{"op":"add",
+    "path":"/aviantempleLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsaviansacrifice-codex"}
+},
+{"op":"add",
+    "path":"/aviantempleLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsaviantornnote-codex"}
+},
+{"op":"add",
+    "path":"/aviantempleLore/0/1/pool/-",
+    "value": {"weight" : 0.1, "item" : "kkgsaviantowerresults-codex"}
+},
+{"op":"add",
+    "path":"/aviantempleLore/0/1/pool/-",
+    "value": {"weight" : 0.001, "item" : "kkgsavianlustymaid-codex"}
+},
+{"op":"add",
+    "path":"/aviantempleLore/0/1/pool/-",
+    "value": {"weight" : 0.10, "item" : "kkgshirakiaviantemple-codex"}
+},
+{"op":"add",
+    "path":"/aviantempleLore/0/1/pool/-",
+    "value": {"weight" : 0.10, "item" : "kkgshirakiawakening-codex"}
+},
+{"op":"add",
+    "path":"/aviantempleLore/0/1/pool/-",
+    "value": {"weight" : 0.10, "item" : "kkgshirakitowerbeverage-codex"}
+},
+{"op":"add",
+    "path":"/aviantombLore/0/1/pool/-",
+    "value": {"weight" : 0.03, "item" : "kkgsavianhawkwings2-codex"}
+},
+{"op":"add",
+    "path":"/aviantombLore/0/1/pool/-",
+    "value": {"weight" : 0.08, "item" : "kkgsaviantombdiary-codex"}
+},
+{"op":"add",
+    "path":"/aviantombLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsaviantornnote-codex"}
+},
+{"op":"add",
+    "path":"/aviantombLore/0/1/pool/-",
+    "value": {"weight" : 0.001, "item" : "kkgsavianlustymaid-codex"}
+},
+{"op":"add",
+    "path":"/avianvillageLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsaviangroundeddiary1-codex"}
+},
+{"op":"add",
+    "path":"/avianvillageLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsaviangroundeddiary2-codex"}
+},
+{"op":"add",
+    "path":"/avianvillageLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsaviangroundeddiary3-codex"}
+},
+{"op":"add",
+    "path":"/avianvillageLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsaviangroundpropa-codex"}
+},
+{"op":"add",
+    "path":"/avianvillageLore/0/1/pool/-",
+    "value": {"weight" : 0.08, "item" : "kkgsavianhawkwings1-codex"}
+},
+{"op":"add",
+    "path":"/avianvillageLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsaviannotesfromground-codex"}
+},
+{"op":"add",
+    "path":"/avianvillageLore/0/1/pool/-",
+    "value": {"weight" : 0.02, "item" : "kkgsthornwingnovel-codex"}
+},
+{"op":"add",
+    "path":"/avianvillageLore/0/1/pool/-",
+    "value": {"weight" : 0.001, "item" : "kkgsavianlustymaid-codex"}
+},
+{"op":"add",
+    "path":"/aviannativevillageLore/0/1/pool/-",
+    "value": {"weight" : 0.08, "item" : "kkgsavianburials-codex"}
+},
+{"op":"add",
+    "path":"/aviannativevillageLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsavianchildrenofkluex-codex"}
+},
+{"op":"add",
+    "path":"/aviannativevillageLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsavianclippedcouncil-codex"}
+},
+{"op":"add",
+    "path":"/aviannativevillageLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsaviancommandments-codex"}
+},
+{"op":"add",
+    "path":"/aviannativevillageLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsaviancrystals-codex"}
+},
+{"op":"add",
+    "path":"/aviannativevillageLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsavianexile-codex"}
+},
+{"op":"add",
+    "path":"/aviannativevillageLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsavianflightpropa-codex"}
+},
+{"op":"add",
+    "path":"/aviannativevillageLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsavianprayer1-codex"}
+},
+{"op":"add",
+    "path":"/aviannativevillageLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsavianprayer3-codex"}
+},
+{"op":"add",
+    "path":"/aviannativevillageLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsaviansacrifice-codex"}
+},
+{"op":"add",
+    "path":"/aviannativevillageLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsavianspeciesandgods-codex"}
+},
+{"op":"add",
+    "path":"/aviannativevillageLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsaviantexts-codex"}
+},
+{"op":"add",
+    "path":"/aviannativevillageLore/0/1/pool/-",
+    "value": {"weight" : 0.001, "item" : "kkgsavianlustymaid-codex"}
+},
+{"op":"add",
+    "path":"/aviannativevillageLore/0/1/pool/-",
+    "value": {"weight" : 0.10, "item" : "kkgshirakiaviantemple-codex"}
+},
+{"op":"add",
+    "path":"/aviannativevillageLore/0/1/pool/-",
+    "value": {"weight" : 0.10, "item" : "kkgshirakiawakening-codex"}
+},
+{"op":"add",
+    "path":"/avianairshipLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "fkkgsaviangroundpropa-codex"}
+},
+{"op":"add",
+    "path":"/avianairshipLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsavianherodiary-codex"}
+},
+{"op":"add",
+    "path":"/avianairshipLore/0/1/pool/-",
+    "value": {"weight" : 0.08, "item" : "kkgsavianmechanicdiary-codex"}
+},
+{"op":"add",
+    "path":"/avianairshipLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsaviannotesfromground-codex"}
+},
+{"op":"add",
+    "path":"/avianairshipLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsaviansailordiary-codex"}
+},
+{"op":"add",
+    "path":"/avianairshipLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsavianshipshanty-codex"}
+},
+{"op":"add",
+    "path":"/avianairshipLore/0/1/pool/-",
+    "value": {"weight" : 0.02, "item" : "kkgsthornwingnovel-codex"}
+},
+{"op":"add",
+    "path":"/avianairshipLore/0/1/pool/-",
+    "value": {"weight" : 0.001, "item" : "kkgsavianlustymaid-codex"}
+},
+{"op":"add",
+    "path":"/avianairshipLore/0/1/pool/-",
+    "value": {"weight" : 0.10, "item" : "kkgshirakifightorflight-codex"}
+},
+{"op":"add",
+    "path":"/avianairshipLore/0/1/pool/-",
+    "value": {"weight" : 0.10, "item" : "kkgshirakiironavian-codex"}
+},
+{"op":"add",
+    "path":"/floranhuntinggroundsLore/0/1/pool/-",
+    "value": {"weight" : 0.08, "item" : "kkgsfloranartofstabbing-codex"}
+},
+{"op":"add",
+    "path":"/floranhuntinggroundsLore/0/1/pool/-",
+    "value": {"weight" : 0.08, "item" : "kkgsfloranbonedragon-codex"}
+},
+{"op":"add",
+    "path":"/floranhuntinggroundsLore/0/1/pool/-",
+    "value": {"weight" : 0.11, "item" : "kkgsfloranpeace-codex"}
+},
+{"op":"add",
+    "path":"/floranhuntinggroundsLore/0/1/pool/-",
+    "value": {"weight" : 0.02, "item" : "kkgsfloranthetrial-codex"}
+},
+{"op":"add",
+    "path":"/floranhuntinggroundsLore/0/1/pool/-",
+    "value": {"weight" : 0.15, "item" : "kkgsflorantranscript-codex"}
+},
+{"op":"add",
+    "path":"/florancanyonLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsfloranambitions-codex"}
+},
+{"op":"add",
+    "path":"/florancanyonLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsfloranapexj-codex"}
+},
+{"op":"add",
+    "path":"/florancanyonLore/0/1/pool/-",
+    "value": {"weight" : 0.08, "item" : "kkgsfloranartofstabbing-codex"}
+},
+{"op":"add",
+    "path":"/florancanyonLore/0/1/pool/-",
+    "value": {"weight" : 0.08, "item" : "kkgsflorandrysap-codex"}
+},
+{"op":"add",
+    "path":"/florancanyonLore/0/1/pool/-",
+    "value": {"weight" : 0.08, "item" : "kkgsflorangreenjournal-codex"}
+},
+{"op":"add",
+    "path":"/florancanyonLore/0/1/pool/-",
+    "value": {"weight" : 0.15, "item" : "kkgsflorangreennote-codex"}
+},
+{"op":"add",
+    "path":"/florancanyonLore/0/1/pool/-",
+    "value": {"weight" : 0.15, "item" : "kkgsflorantranscript-codex"}
+},
+{"op":"add",
+    "path":"/floranvillagetowerLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsfloranambitions-codex"}
+},
+{"op":"add",
+    "path":"/floranvillagetowerLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsfloranbiology-codex"}
+},
+{"op":"add",
+    "path":"/floranvillagetowerLore/0/1/pool/-",
+    "value": {"weight" : 0.08, "item" : "kkgsfloranbonedragon-codex"}
+},
+{"op":"add",
+    "path":"/floranvillagetowerLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsfloraneducation-codex"}
+},
+{"op":"add",
+    "path":"/floranvillagetowerLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsfloranettiquete-codex"}
+},
+{"op":"add",
+    "path":"/floranvillagetowerLore/0/1/pool/-",
+    "value": {"weight" : 0.11, "item" : "kkgsfloranglitchjournal1-codex"}
+},
+{"op":"add",
+    "path":"/floranvillagetowerLore/0/1/pool/-",
+    "value": {"weight" : 0.11, "item" : "kkgsfloranglitchjournal2-codex"}
+},
+{"op":"add",
+    "path":"/floranvillagetowerLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsfloranpeace-codex"}
+},
+{"op":"add",
+    "path":"/floranvillagetowerLore/0/1/pool/-",
+    "value": {"weight" : 0.11, "item" : "kkgsfloranpracticebook-codex"}
+},
+{"op":"add",
+    "path":"/floranvillagetowerLore/0/1/pool/-",
+    "value": {"weight" : 0.02, "item" : "kkgsfloranthetrial-codex"}
+},
+{"op":"add",
+    "path":"/floranvillagetowerLore/0/1/pool/-",
+    "value": {"weight" : 0.13, "item" : "kkgsflorantreestabinterview-codex"}
+},
+{"op":"add",
+    "path":"/floranvillagetowerLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsflorantreetops-codex"}
+},
+{"op":"add",
+    "path":"/floranhutvillageLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsfloranambitions-codex"}
+},
+{"op":"add",
+    "path":"/floranhutvillageLore/0/1/pool/-",
+    "value": {"weight" : 0.08, "item" : "kkgsfloranartofstabbing-codex"}
+},
+{"op":"add",
+    "path":"/floranhutvillageLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsfloranbiology-codex"}
+},
+{"op":"add",
+    "path":"/floranhutvillageLore/0/1/pool/-",
+    "value": {"weight" : 0.08, "item" : "kkgsflorandrysap-codex"}
+},
+{"op":"add",
+    "path":"/floranhutvillageLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsfloraneducation-codex"}
+},
+{"op":"add",
+    "path":"/floranhutvillageLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsfloranettiquete-codex"}
+},
+{"op":"add",
+    "path":"/floranhutvillageLore/0/1/pool/-",
+    "value": {"weight" : 0.11, "item" : "kkgsfloranglitchjournal1-codex"}
+},
+{"op":"add",
+    "path":"/floranhutvillageLore/0/1/pool/-",
+    "value": {"weight" : 0.11, "item" : "kkgsfloranglitchjournal2-codex"}
+},
+{"op":"add",
+    "path":"/floranhutvillageLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsfloranpeace-codex"}
+},
+{"op":"add",
+    "path":"/floranhutvillageLore/0/1/pool/-",
+    "value": {"weight" : 0.11, "item" : "kkgsfloranpracticebook-codex"}
+},
+{"op":"add",
+    "path":"/floranhutvillageLore/0/1/pool/-",
+    "value": {"weight" : 0.02, "item" : "kkgsfloranthetrial-codex"}
+},
+{"op":"add",
+    "path":"/floranhutvillageLore/0/1/pool/-",
+    "value": {"weight" : 0.13, "item" : "kkgsflorantreestabinterview-codex"}
+},
+{"op":"add",
+    "path":"/humanprisonLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgshumanprisondiary-codex"}
+},
+{"op":"add",
+    "path":"/humanprisonLore/0/1/pool/-",
+    "value": {"weight" : 0.13, "item" : "kkgshumanuscmlog1-codex"}
+},
+{"op":"add",
+    "path":"/humanprisonLore/0/1/pool/-",
+    "value": {"weight" : 0.13, "item" : "kkgshumanuscmlog2-codex"}
+},
+{"op":"add",
+    "path":"/humanprisonLore/0/1/pool/-",
+    "value": {"weight" : 0.13, "item" : "kkgshumanuscmlog3-codex"}
+},
+{"op":"add",
+    "path":"/humanprisonLore/0/1/pool/-",
+    "value": {"weight" : 0.13, "item" : "kkgshumanuscmlog4-codex"}
+},
+{"op":"add",
+    "path":"/humanprisonLore/0/1/pool/-",
+    "value": {"weight" : 0.13, "item" : "kkgshumanuscmlog5-codex"}
+},
+{"op":"add",
+    "path":"/humanprisonLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgshumanuscmorders-codex"}
+},
+{"op":"add",
+    "path":"/humanprisonLore/0/1/pool/-",
+    "value": {"weight" : 0.02, "item" : "kkgsprisoncasebook-codex"}
+},
+{"op":"add",
+    "path":"/humanprisonLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsuscmhandbook-codex"}
+},
+{"op":"add",
+    "path":"/humanprisonLore/0/1/pool/-",
+    "value": {"weight" : 0.10, "item" : "kkgshirakibunker-codex"}
+},
+{"op":"add",
+    "path":"/humancampLore/0/1/pool/-",
+    "value": {"weight" : 0.08, "item" : "kkgshumansurvivalguide-codex"}
+},
+{"op":"add",
+    "path":"/glitchsewerLore/0/1/pool/-",
+    "value": {"weight" : 0.08, "item" : "kkgsglitchplatinum-codex"}
+},
+{"op":"add",
+    "path":"/glitchsewerLore/0/1/pool/-",
+    "value": {"weight" : 0.08, "item" : "kkgsmodernpometheus-codex"}
+},
+{"op":"add",
+    "path":"/glitchsewerLore/0/1/pool/-",
+    "value": {"weight" : 0.08, "item" : "kkgssewerbestiary-codex"}
+},
+{"op":"add",
+    "path":"/glitchsewerLore/0/1/pool/-",
+    "value": {"weight" : 0.08, "item" : "kkgsglitchhandwrittennote-codex"}
+},
+{"op":"add",
+    "path":"/glitchsewerLore/0/1/pool/-",
+    "value": {"weight" : 0.10, "item" : "kkgshirakisewerstrange-codex"}
+},
+{"op":"add",
+    "path":"/glitchvillageLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsglitchattention-codex"}
+},
+{"op":"add",
+    "path":"/glitchvillageLore/0/1/pool/-",
+    "value": {"weight" : 0.13, "item" : "kkgsglitchcasebook1-codex"}
+},
+{"op":"add",
+    "path":"/glitchvillageLore/0/1/pool/-",
+    "value": {"weight" : 0.13, "item" : "kkgsglitchcasebook2-codex"}
+},
+{"op":"add",
+    "path":"/glitchvillageLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsglitchdirective-codex"}
+},
+{"op":"add",
+    "path":"/glitchvillageLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsglitchoutcastjournal-codex"}
+},
+{"op":"add",
+    "path":"/glitchvillageLore/0/1/pool/-",
+    "value": {"weight" : 0.08, "item" : "kkgsglitchsteelcasebook-codex"}
+},
+{"op":"add",
+    "path":"/glitchvillageLore/0/1/pool/-",
+    "value": {"weight" : 0.10, "item" : "kkgshirakiglitchindiv-codex"}
+},
+{"op":"add",
+    "path":"/glitchcastleLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsglitchattention-codex"}
+},
+{"op":"add",
+    "path":"/glitchcastleLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsglitchdirective-codex"}
+},
+{"op":"add",
+    "path":"/glitchcastleLore/0/1/pool/-",
+    "value": {"weight" : 0.08, "item" : "kkgssewerbestiary-codex"}
+},
+{"op":"add",
+    "path":"/glitchcastleLore/0/1/pool/-",
+    "value": {"weight" : 0.02, "item" : "kkgswouldbekinguncut-codex"}
+},
+{"op":"add",
+    "path":"/glitchcastleLore/0/1/pool/-",
+    "value": {"weight" : 0.10, "item" : "kkgshirakiglitchindiv-codex"}
+},
+{"op":"add",
+    "path":"/glitchcastleLore/0/1/pool/-",
+    "value": {"weight" : 0.10, "item" : "kkgshirakiglitchoutcasts-codex"}
+},
+{"op":"add",
+    "path":"/evilfortressLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsglitchattention-codex"}
+},
+{"op":"add",
+    "path":"/evilfortressLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsglitchfatalcircuit-codex"}
+},
+{"op":"add",
+    "path":"/evilfortressLore/0/1/pool/-",
+    "value": {"weight" : 0.08, "item" : "kkgssewerbestiary-codex"}
+},
+{"op":"add",
+    "path":"/evilfortressLore/0/1/pool/-",
+    "value": {"weight" : 0.02, "item" : "kkgswouldbekinguncut-codex"}
+},
+{"op":"add",
+    "path":"/dungeoncrawlerLore/0/1/pool/-",
+    "value": {"weight" : 0.08, "item" : "kkgsglitchhandwrittennote-codex"}
+},
+{"op":"add",
+    "path":"/dungeoncrawlerLore/0/1/pool/-",
+    "value": {"weight" : 0.13, "item" : "kkgsglitchcasebook1-codex"}
+},
+{"op":"add",
+    "path":"/dungeoncrawlerLore/0/1/pool/-",
+    "value": {"weight" : 0.13, "item" : "kkgsglitchcasebook2-codex"}
+},
+{"op":"add",
+    "path":"/dungeoncrawlerLore/0/1/pool/-",
+    "value": {"weight" : 0.08, "item" : "kkgsglitchsteelcasebook-codex"}
+},
+{"op":"add",
+    "path":"/dungeoncrawlerLore/0/1/pool/-",
+    "value": {"weight" : 0.17, "item" : "kkgsglitchfatalcircuit-codex"}
+},
+{"op":"add",
+    "path":"/dungeoncrawlerLore/0/1/pool/-",
+    "value": {"weight" : 0.08, "item" : "kkgsglitchplatinum-codex"}
+},
+{"op":"add",
+    "path":"/dungeoncrawlerLore/0/1/pool/-",
+    "value": {"weight" : 0.02, "item" : "kkgswouldbekinguncut-codex"}
+},
+{"op":"add",
+    "path":"/dungeoncrawlerLore/0/1/pool/-",
+    "value": {"weight" : 0.10, "item" : "kkgshirakiglitchoutcasts-codex"}
+},
+{"op":"add",
+    "path":"/dungeoncrawlerLore/0/1/pool/-",
+    "value": {"weight" : 0.08, "item" : "kkgsglitchplatinum-codex"}
+}
+]
+
