@@ -1,0 +1,86 @@
+{
+  "id" : "kkgsincarcerusproject",
+  "title" : "The Incarcerus Project ^yellow;¤^reset;",
+  "species" : "apex",
+  "description" : "This looks important.",
+  "icon" : "apexcover11l.png",
+  "contentPages" : [
+
+    "DAY 1
+
+The inmates are doing well. There had been some in-fighting, but this was quickly tempered with some short blasts of cold water. Observing the chatter, it is surprisingly how quickly the Miniknog soldiers are adapting to life behind bars.",
+
+"The Apex citizens are not adopting their guard roles quite so easily. They are hesitant, unsure of themselves, and unwilling to assert their authority over the prisoners. This is interesting, as my original hypothesis predicted that the citizens would quickly turn on the soldiers.",
+
+"Perhaps current Miniknog methods are fully effective in conditioning the citizens to obey. Perhaps the higher-ups are wrong to be concerned. But still, this is only day one of the experiment, and a lot could change.",
+
+"DAY 3
+
+The soldiers are beginning to gain control of the experiment. Despite having taken on the role of prisoners, the dynamic is very clear. They do what they want, and in some cases even tell the citizens - the guards - what to do. It is very interesting to observe.",
+
+"Earlier, I visited the common room to find the soldiers playing ball games, and the citizens locked in the cells. The self-styled leader of the military prisoners, Hairbiter McVey, informed me that they'd requested some 'chill-out time'.",
+
+"I will have to talk to the citizens, explain to them that to become prison guards, they must be more assertive. Years of Miniknog oppression has left them timid shells. While this was good for our original purposes, it now leaves us with an army of Apex who are incapable of serving us.",
+
+"DAY 7
+
+The citizens are beginning to assert themselves. The military prisoners had overturned a vending machine and were stripping it of bananas and the like. The citizens approached and very politely asked them to stop.",
+
+"The soldiers ignored them, and the citizens sheepishly left, but still, it's progress. I suggested to them that perhaps grovelling and begging is not the best way to show authority, but they just looked confused.",
+	
+"It has become clear to me that the Miniknog has created an army of useless Apex. Our collective forces may be the most powerful in the universe, but here we have been somewhat short-sighted in our goals. Thankfully I am the one tasked with fixing this.",
+
+"My first step must be to come up with a method of making the citizens more proactive, while still remaining in the thrall of the Miniknog military. As such, I have scrapped the current experiment and converted the prison into a gladiatorial arena. Perhaps this shall yield better results.",
+
+"DAY 8
+
+The first fights went down today. The Apex citizens versus a bunch of monsters we captured. This went pretty well. Only one casualty, and the Apex were perfectly capable of fending for themselves. The Miniknog helped by cheering them on and commanding them to fight.",
+
+"Turns out the Apex citizens are still formidable fighters when it comes down to it. Monster parts everywhere. Even the soldiers seemed impressed. The General watched via video link, of course, and expressed his concerns about the Apex being too competent, but he hasn't seen the thrall in which the Miniknog still hold them.",
+
+"DAY 11
+
+Recently, I contacted an old friend of mine, a Floran Greenfinger. As usual, he came through for me, and provided me with what I asked for. Ten angry, rabid Florans, out for a fight. I questioned him as to whether they were prisoners, and he said no, they were just bored.",
+
+"I attempted to brief the Florans on how the battle should go down, but I don't think I got through to them. In fact, I narrowly avoided being impaled by a rogue Floran spear. The Greenfinger did warn me, I suppose. Tomorrow, they shall fight my Apex.",
+	
+"DAY 12
+
+Well that's that experiment over for now. Nine Florans remain, and no Apex. And I don't just mean the citizens either, the Miniknog guards fell afoul of the Floran menace too. I tried to stop them, but the General commanded me to let it play out.",
+
+"I admit, it was interesting to watch. The Apex may possess great physical strength, but the Floran outmatch them in all areas. The General is plotting something. He told me to wait before restarting the experiment. I, in the meantime, have to herd nine angry Florans back into their quarters.",
+
+"DAY 14
+
+I've been tasked with finding a way to ensure our Apex soldiers are capable of taking down a Floran with ease. I thought about the long, hard, gruelling training regimen this would involve. Even if we just focused on the Miniknog soldiers, it would take forever.",
+
+"No, something better is required. We need a breed of Apex who is stronger, better, faster than the rest. Front-line soldiers who are capable of leading the charge, and dealing the brunt of the damage.",
+
+"DAY 16
+
+I've put in another call to my Greenfinger associate. I know that Floran DNA is very malleable, and can be spliced rather easily. I asked him for permission to experiment on the Florans he sent. He said that I could do what I wished, so long as he was in attendance.",
+
+"Being in the presence of a Floran Greenfinger is, as usual, disconcerting. He is a brilliant, brilliant scientist. I feel like a child fumbling in the dark in comparison. Within half a day, he had perfected a theoretical gene-splice between the Florans and the Apex, and constructed a plan for slow-burning experimentation.",
+
+"DAY 17
+
+The Greenfinger entered the lab early this morning to find me working away diligently. I was attempting to deconstruct the Floran DNA strands in the hope I could find an even quicker solution to the DNA merge. He immediately lost his temper.",
+
+"I have never seen my friend behave this way. At one stage, I almost feared for my life. He smashed equipment, shouted and screamed. I began to suspect he was scared. This, in turn, scared me.",
+
+"Finally I calmed my friend down. He apologised, and I asked him to explain. And explain he did. His explanation shocked me to the very core. The secret he has been hiding for all these years... it could change everything.",
+	
+"DAY 20
+
+The Greenfinger finally left, today. The experiment - following his plan, of course - is set to go ahead. I think he was hesitant to make an exit, after imparting certain knowledge upon me.",
+
+"He swore me to secrecy, of course. I am a respected scientist, and he knows that I value my oaths above all else. And yet... this information I have come to possess, the value it holds, is astronomical.",
+
+"I will keep quiet for him, though. I shall say nothing. And he will never know what it means to me to have been brought into his trust, to share the burden of his secret, a burden he has carried alone for centuries. We will get through this, old friend."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Legendary",
+    "price" : 200
+  }
+}

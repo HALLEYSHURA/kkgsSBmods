@@ -1,0 +1,16 @@
+{
+  "id" : "kkgsaviangroundpropa",
+  "title" : "The Grounded Doctrine ^yellow;¤^reset;",
+  "species" : "avian",
+  "description" : "The ideology of the Grounded.",
+  "icon" : "aviancover4l.png",
+  "contentPages" : [
+
+    "We reject the teachings of Kluex. We deny the existence of the Sunborn. We defy the rule of the Stargazers. We will tar the Clipped Council. We will burn down the Celestial Stairways. We will free the Ascendants, and liberate the Flightless. We are the Grounded, and we shall rise."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Uncommon",
+    "price" : 40
+  }
+}

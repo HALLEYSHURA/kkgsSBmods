@@ -1,0 +1,24 @@
+{
+  "id" : "kkgsapexlabblog3",
+  "title" : "Assistant's Blog Entry 3 ^yellow;¤^reset;",
+  "species" : "apex",
+  "description" : "The transcribed blog of an Apex lab assistant.",
+  "icon" : "apexlabblog3l.png",
+  "contentPages" : [
+
+    "Test subjects are coming in thick and fast now. They're divided into three groups, and then their treatment begins. There's the control group, obviously, then a group who are treated with Formula H and Formula F. I'm working on the Formula F test group.",
+
+    "I'd love to share details on the experiment here, but even I can't risk that. It's very exciting though. However, it makes me uncomfortable realising that our test subjects aren't volunteers. Some are impoverished Apex citizens, but some are Resistance soldiers, captured. Of course, I should have no sympathy for them, but...",
+
+    "We came into the lab to find all of the Formula H test subjects dead. Their bodies had just shut down. Doctor Lax treated it as if it was expected. Maybe it was. She's acting strange lately. I don't like it.",
+
+    "Lax has her own experimental chamber, and there's definitely something in there. I hear noises. I'm often the last one in the lab, and I won't lie, it creeps me out. I hear growling, and banging on the doors, and sometimes even low sobbing.",
+
+    "One day, I'm going to be brave enough to take a look. Just a quick peek. I've seen the access code Lax enters. I could get in. I just... I'm nervous. The test chamber is marked with so many 'danger' signs that I feel hesitant."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Rare",
+    "price" : 100
+  }
+}

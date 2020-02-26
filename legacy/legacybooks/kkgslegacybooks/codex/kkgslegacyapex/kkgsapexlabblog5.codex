@@ -1,0 +1,28 @@
+{
+  "id" : "kkgsapexlabblog5",
+  "title" : "Assistant's Blog Entry 5 ^yellow;¤^reset;",
+  "species" : "apex",
+  "description" : "The transcribed blog of an Apex lab assistant.",
+  "icon" : "apexlabblog5l.png",
+  "contentPages" : [
+
+    "I'm writing this from beneath a desk. I'm hiding. If I don't make it out of here, spread my story. Make sure the universe knows what happened. I can hear gunfire, and screams, and a terrible, pained roaring sound.",
+
+    "The 'Administrator' arrived. Just knocked on the door and announced he was here. Of course, I threw it open excitedly. Doctor Lax, stepping out of her chamber, screamed for me to stop, but it was too late. A figure stood there, wearing an ill-fitting ape costume.",
+
+    "Tearing off the costume, the creature tossed me aside. I've never seen a beast like it. It was sentient; it spoke to Doctor Lax, told her that her time was up, that 'they' had found her. It began to chase her through the compound, as I cowered beneath my desk.",
+
+    "The sounds of fighting soon died down. I saw the creature, the assassin, stalking out of the building, seemingly content with its work. I waited, then cautiously made my way out, towards the test chamber, the door ajar.",
+
+    "I peered inside, unsure of what I'd find. There, Doctor Lax lay slumped inside a large capsule, a syringe stuck in her neck, pumping what appeared to be a combination of Formula F and H into her veins. She was dead, of course.",
+
+    "Whatever had been inside the test chamber originally was long gone. But Doctor Lax's notes remained. This... this changes everything. What we've been doing, what we've been working towards, it's an abomination. How could our scientists even condone this?",
+
+    "My next blog post will blow this whole thing wide open. I'm going into hiding. I need to make sure I'm safe, and then I'm blowing the whistle on all of this. The Miniknog must be stopped."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Rare",
+    "price" : 100
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id" : "kkgsavianhawkwings1",
+  "title" : "The Kluex Delusion ^yellow;¤^reset;",
+  "species" : "avian",
+  "description" : "A controversal Grounded think piece by Rochard Hawkwings.",
+  "icon" : "aviancover4l.png",
+  "contentPages" : [
+
+    "While the Flightless blindly follow the teachings of the Stargazers, those of us who are enlightened - grounded, if you will - question it. Many of us, in fact, are of the opinion that Kluex does not even exist.
+
+What evidence is there? What SCIENTIFIC evidence? Proof. That's what the universe revolves around. There is little proof that Kluex exists, other than statues and carvings depicting his supposed appearance.",
+	
+"On a distant desert planet lies the Great Sovereign Temple, said to house treasures of the god. A lonely, desolate place. Fit for a god? I do not believe so. If you ask me, that space station is a spy satellite. Watching us. Recording our personal data. Sending reports to the Stargazers about what we do, think, eat, drink. They're watching us all.",
+	
+"It is possible that Avian religious nobility took some tips from the Apex; there are startling similarities between Kluex and Big Ape, the ruler of the Apex. They are both mysterious figures, and they both rule. Having researched Avian history, I came to the conclusion that it's entirely possible the Stargazers had met with Big Ape in the past.",
+
+"Perhaps this is where the idea for Kluex came from. Perhaps the Great Temples, the Stargazers' spy satellites, are simply filled with the Miniknog's mind-reading technology. The Clipped Council extol the virtues of prayer, but how can Kluex hear our prayers? You know what DOES have super-hearing? A SPY SATELLITE. That's right. Every time you pray, that spy satellite records your words, documents them, and saves them for use against you.",
+
+"I contacted the Miniknog for comment on this. Transcribed below is Big Ape's reply:
+
+'Big Ape, here. Kluex, you say? A god? An Avian god? Big Ape is not familiar with this individual. But Big Ape will be happy to challenge your god Kluex to a no-holds-barred cage match, to prove ape superiority once and for all. Any time, any place, anything goes. The Miniknog are always ready.'
+
+It remains to be seen whether Kluex will accept this offer."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Rare",
+    "price" : 100
+  }
+}

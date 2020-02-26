@@ -1,0 +1,18 @@
+{
+  "id" : "kkgsfloranbiology",
+  "title" : "On Floran Biology ^yellow;¤^reset;",
+  "species" : "floran",
+  "description" : "A Greenfinger's words on Floran biology.",
+  "icon" : "florancover5l.png",
+  "contentPages" : [
+
+    "The Florans' plantlike biology leaves them susceptible to extreme heat. All Florans know that fire equals danger, but many are unaware of the toll that dry, humid conditions can take on the body.",
+
+    "Prolonged exposure to desert climate can leave Florans in a mummified, barely living state, before they eventually succumb to the elements, crumbling to dust. As the species expands its territory, it has been important to find ways in which the Florans can adapt their biology in order to survive inhospitable climes."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Uncommon",
+    "price" : 40
+  }
+}

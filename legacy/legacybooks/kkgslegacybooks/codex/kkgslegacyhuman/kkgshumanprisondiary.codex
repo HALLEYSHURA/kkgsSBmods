@@ -1,0 +1,20 @@
+{
+  "id" : "kkgshumanprisondiary",
+  "title" : "Prisoner's Diary ^yellow;¤^reset;",
+  "species" : "human",
+  "description" : "A worn diary that belonged to a USCM prisoner.",
+  "icon" : "humancover5l.png",
+  "contentPages" : [
+
+    "We heard 'em, back when we was locked up. They was everywhere. This place, all the places like this, evil to the core. We thought we left that suffering back on Earth, in the belly of a beast, but no.",
+
+"Mad Mary, searching for her lost baby. Dominic Darmanin, the axe murderer. Killer Betty Simpson, who loved a Floran. Anthony Muldoon, with his hook for a hand. Harkaway Jones, the killer of the Apex.
+
+We hears 'em all. Most nights, they come out to play."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Uncommon",
+    "price" : 40
+  }
+}

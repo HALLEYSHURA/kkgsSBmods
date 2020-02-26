@@ -1,0 +1,24 @@
+{
+  "id" : "kkgsmodernpometheus",
+  "title" : "The Modern Po-metheus ^yellow;¤^reset;",
+  "species" : "glitch",
+  "description" : "A musty-looking journal. The pages are stained brown.",
+  "icon" : "glitchcover7l.png",
+  "contentPages" : [
+
+    "These dank tunnels hide my grim visage; I am grateful for the respite it has provided over the years, but still, I long to be out in the sunlight, to feel the breeze upon my face, to greet my family once more. Memories, melting away, dripping from my mind like tears from my eyes as I stalk these corridors simply hoping, praying, that one day things will be different.",
+	
+	"Down here, it is lonely. I curse the day I drank that delicious-looking liquid. All I long for is acceptance, friendship. Many travellers come down here, and I do my best to protect them from the fly, from the spider, from the many other horrors that lurk in these waters. And yet, when I approach to offer my aid, these travellers turn on me with swords and guns, disintegrating my body until I have the strength to form again.",
+	
+	"As I mark down these words, brown tears spill from my eyes. I think back to that day, that fateful day when, fleeing my Miniknog captors, I descended into this sewer. For days I hid, as their guards searched for me. Hungry, thirsty, I eventually succumbed, finding some yellow, glowing goo that reminded me of a mushed up banana. No sooner had I eaten it when my body began to change; my very molecules reassembled, merging with my surroundings - the sewer's filth.",
+	
+	"And now, years later, I am Apex no longer. I am simply a golem of filth longing for an escape, but what I long for even more is to return to my former self. There must be a way.
+
+If there truly is no hope left for me, then all I wish for is for someone to end this torment for good."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Rare",
+    "price" : 100
+  }
+}

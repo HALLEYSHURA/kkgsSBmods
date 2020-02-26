@@ -1,0 +1,36 @@
+{
+  "id" : "kkgsfloranthetrial",
+  "title" : "The Trial of Saplings ^yellow;¤^reset;",
+  "species" : "floran",
+  "description" : "The biography of a famous Floran hunter.",
+  "icon" : "florancover6l.png",
+  "contentPages" : [
+
+    "A young Floran once set out upon her coming-of-age journey, armed only with a spear, six knives, some shurikens, a whip, a saw, a staff, a sword and a piece of bone that was really sharp. Woefully under-equipped, she made her way into the Forest of Stabbing, prepared to take on her first challenge.",
+	
+	"There she encountered the legendary Giant Flesh Monkey That Smells, and began her hunt. The hunt was over quickly, as the Giant Flesh Monkey was peacefully asleep when the Floran plunged her spear into its eye. With her first trial over, the Floran tentatively made her way onto the next ordeal.",
+	
+	"The second trial began in a temple. The young Floran was faced with an impossible choice; brave an ocean of flame which would scorch even the woodiest of elders, or walk through a pitch-black tunnel. The young Floran smiled. Wrapping her spear in the pelt of the monkey she'd killed earlier, she plunged it into the fire, creating a makeshift torch.",
+
+    "This allowed her to see clearly in the dark passageway, which turned out to be filled with spikes and blades and at least two semi-working arrow traps. After ducking, rolling and weaving her way through, the young Floran emerged victorious on the other side, and stabbed a nearby bat/octopus hybrid to celebrate. Feeling confident, she pressed on.",
+	
+	"The young Floran emerged into a clearing and reeled back in horror. A grey festering blob of infinite malevolence writhed before her. 'How will I defeat this?' she asked herself as she fell to her knees, calling out to the sky for answers. Since she'd fallen awkwardly, she felt the hilt of her knife digging into her hip, and the answer became clear.",
+
+    "It would take great strength and sacrifice. With a cry, the young Floran dived upon the festering blob and began stabbing over and over and over until the blob was no more. The young Floran left, buzzing from the hunt, and grateful that she'd managed to catch the blob before it had noticed her.",
+	
+	"Knowing she was near the end of her journey, the young Floran allowed herself time to rest, which was a mistake because she soon realised she was inside a giant insect hive. The young Floran was not particularly keen on insects, so she stabbed the larger ones and squashed the smaller ones with the palm of her hand.",
+
+    "As soon as the insect blood touched her leaves, she began to feel a strange sensation as her vision started to swim. The young Floran realised the final trial was about to begin, a trial that would test her mind to its limits...",
+	
+	"The young Floran stared at the Hylotl crone that stood before her. The Hylotl smiled. 'And so it has come to this,' it said. 'Your final challenge. I present you with riddles three. Riddle the first. Wha-'.",
+
+    "Before the Hylotl could finish, the young Floran punched it. The Hylotl dropped like a sack of pussplums, and the Floran knew she had passed her test.
+
+When Nuru returned to the village, her cocoon-kin threw her a great feast, and she told them of the dangers she'd faced."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Legendary",
+    "price" : 200
+  }
+}

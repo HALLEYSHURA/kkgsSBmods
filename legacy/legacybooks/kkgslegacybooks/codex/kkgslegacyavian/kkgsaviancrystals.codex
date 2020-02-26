@@ -1,0 +1,18 @@
+{
+  "id" : "kkgsaviancrystals",
+  "title" : "The Avolite Crystals ^yellow;¤^reset;",
+  "species" : "avian",
+  "description" : "A study by Avian scholar K'arn Hollowbeak.",
+  "icon" : "aviancover6l.png",
+  "contentPages" : [
+
+    "One of our species' most proud achievements, the Avolite crystals we harness can be used as power sources for many devices, from machinery to lighting and even cooking tools. These crystals are in high demand across the universe, and fetch for hefty prices among the black market, but the Avians refuse to give up these much-valued gifts of Kluex.",
+	
+	"It is a worry, albeit an unavoidable one, that the Grounded have such ready access to the crystals. What worries me even more is that, despite using these miraculous minerals, they still deny the power of Kluex. Who else could create such wonders, if not a god?"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Uncommon",
+    "price" : 40
+  }
+}

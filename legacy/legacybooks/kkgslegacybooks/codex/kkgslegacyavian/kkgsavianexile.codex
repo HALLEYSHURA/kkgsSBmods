@@ -1,0 +1,22 @@
+{
+  "id" : "kkgsavianexile",
+  "title" : "On Excommunication ^yellow;¤^reset;",
+  "species" : "avian",
+  "description" : "A study by Avian scholar K'arn Hollowbeak.",
+  "icon" : "aviancover6l.png",
+  "contentPages" : [
+
+    "I was fortunate enough to meet with a member of the Clipped Council some time ago. We shared talk, stories, and eventually a bottle of particularly potent pussplum wine. This loosened the Avian's tongue even more, and I was able to ask her about the Grounded, and how her people deal with those who defy Kluex.",
+
+    "Many are simply exiled from their villages, she told me, occasionally even hounded off-planet if their heresy is grand enough. Others, however, are subjected to rather barbaric practices.",
+	
+	"One such practice is dipping the heretic in a vat of tar-like liquid, which solidifies over their feathers, turning their plumage into what is essentially stone. It's a largely symbolic gesture, seeing as the Avians cannot fly, but one which serves to sufficiently shame the subject.
+
+She stressed, repeatedly, that this behaviour was no longer endorsed by either the Stargazers or the Council."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Uncommon",
+    "price" : 40
+  }
+}

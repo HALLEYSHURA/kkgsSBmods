@@ -1,0 +1,68 @@
+{
+  "id" : "kkgsprisoncasebook",
+  "title" : "Ghosts In The Walls ^yellow;¤^reset;",
+  "species" : "human",
+  "description" : "A lost entry in The Steel Casebook.",
+  "icon" : "humancover1l.png",
+  "contentPages" : [
+
+    "TIME: 18:12 GST
+
+It's not often a Glitch bounty hunter finds themselves tasked with visiting a human settlement, and yet here I am. I will be honest; I'm not fond of humans. They appear Glitch-like but fleshy, without the hardy muscular physique of the Apex.",
+
+"Here, though, in this place, I can't help but pity them as a species. Misery and torment seems to exude from every surface. Graffiti marks the walls; cries for help and sinister warnings. Something bad walked these hallways. I can feel it.",
+
+"I am here on the behest of Platinum, tracking down an Apex who stole the locations of a number of Glitch Outcast camps. The Apex, I was told, had disguised himself as a human and promptly been thrown in prison.",
+
+"If he was here, however, he isn't any more. The place is desolate and ruined. It feels like it was a mistake to come here. Were I not made of metal, I imagine I'd be feeling chills run down my spine. I do not like this place.",
+
+"TIME: 18:47 GST
+
+The further I proceed into the complex, the more evidence I'm finding of the villains who once dwelt here. Thieves, terrorists, murderers, the scum of the universe. Perhaps their evil became tangible and seeped into the very walls of this place. Or perhaps it is something more.",
+
+"The Glitch do not believe in the concept of an afterlife, but many other species do. Humans, though, seem to be the most prone to superstition. Ghosts, spectres, the return of their kind to life, but in a non-corporeal form. Perhaps it is the light playing tricks on me, but as I head onwards into the prison, I fancy I keep seeing movement out of the corner of my eye.",
+
+"TIME: 20:28 GST
+
+I blacked out, earlier. Simply as if my body had shut down. The last thing I remember is a strange electromagnetic pulse, as if a current passed through my body, and then nothing. Diagnostics all scan okay, but I am wary.",
+
+"When I awoke, I had somehow crawled to a different room. I was lying on a prison cell bed, but I wasn't alone. A bald doll with one eye sat on the mattress beside me, staring. It appeared to be some kind of human toy. I scanned it for signs of life, then mocked myself for doing so.",
+
+"Something is watching me. I've descended so deep into this prison that the lights no longer work, and I'm forced to navigate with night vision. As I made my way down a corridor, my scanner flickered into action, alerting me to a life sign just behind me. I whirled around, and nothing.",
+
+"Every ounce of logic I possess wants to believe it is my quarry, hiding from me in plain sight, perhaps taking stock of his pursuer, but something - a feeling not native to my programming - tells me it is not. I do not think my quarry has been alive for a long time.",
+
+"TIME: 23:53 GST
+
+I awoke in the night to the sounds of wailing. There were two strange things about this. One, I had been asleep. My progress through the prison has been so slow that there has been no need to rest in order to recharge, and yet I was overcome with fatigue.",
+
+"Two, no life signs detected. None. And yet the wailing was clearly coming from within the room I found myself in. A low, tortured cry, unlike anything I've heard before. Unlike any species I've heard before. I am on the verge of abandoning my mission and turning back.",
+
+"What is it for a Glitch to know fear? I have felt it before, of course; it is a side effect of the severing. But this, this is different. The more I take in the history of the prison, piecing together events from scrawled messages and disrepair, the more I begin to feel human.",
+
+"This species, these humans, are lost and adrift in the universe. Would it not make sense that even their very souls, if such a thing exists, cannot find peace? They have an emotional range quite unlike that of any other species; a conflicting, terrible sea of confusion.",
+
+"TIME: 24:23 GST
+
+I found a locked cell. Scans indicate a life sign from within. Something lurks in there. I know that, given the tools in my possession, I could get in. I know that I SHOULD, as it may be my quarry. And yet I hesitate.",
+
+"As I wait outside the door, I hear a voice whispering to me. It calls me by name, and by names I've never heard before. It talks of beings made of light, and beings made of darkness. It talks of a god that will swallow the universe. And it talks of humanity.",
+
+"I opened the door. The room was empty, save for a single chair, upon which sat the doll. I picked the thing up, and with a surge of anger, threw it on the ground and stamped on it. The plastic shattered beneath my foot.",
+
+"As I glanced up, a shadow passed across the wall, and the door behind me slammed shut. I fumbled, trying to get out, and finally as I did so, caught sight of a figure disappearing around the corner up ahead.",
+
+"TIME: 24:42 GST
+
+I followed the shadow all throughout the complex. It led me on a merry chase, always one step ahead. But finally I caught up with it. It took a dead end, there was nowhere to hide. Now I wait outside of its sanctuary, building up my courage.",
+
+"This ends now. I am a Glitch. I do not believe in the soul, or spirits. I will prove this thing is flesh and blood, and if necessary, I will take it in. Hewlett Deckard will not be toyed with.
+
+(A stamp underneath the text reads: \"This entry in the Steel Casebook is considered closed. No further details will be provided in this case. The mission is regarded as a failure, and the client has been refunded.\")"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Legendary",
+    "price" : 200
+  }
+}

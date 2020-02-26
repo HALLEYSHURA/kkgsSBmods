@@ -1,0 +1,24 @@
+{
+  "id" : "kkgsflorangreennote",
+  "title" : "Greenguard's Note ^yellow;¤^reset;",
+  "species" : "floran",
+  "description" : "A scrawled, handwritten note.",
+  "icon" : "florancover8l.png",
+  "contentPages" : [
+
+    "Greenguard send replacement.
+
+More Greenguard go mad, try to kill. Have to stab.
+	
+Body strange, had to burn. Drysap at work.
+	
+More trouble than worth. Lose two thirds of Greenguard every month.
+
+Ho hum. Send more."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Uncommon",
+    "price" : 40
+  }
+}

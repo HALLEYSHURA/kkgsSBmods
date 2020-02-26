@@ -1,0 +1,32 @@
+{
+  "id" : "kkgsavianburials",
+  "title" : "The Avian Afterlife ^yellow;¤^reset;",
+  "species" : "avian",
+  "description" : "A study on Avian burial rituals, by K'arn Hollowbeak.",
+  "icon" : "aviancover6l.png",
+  "contentPages" : [
+
+    "Those who serve Kluex with passion and dedication in this life are said to regain their wings in the next. It is the Avians' ultimate goal; to regain the power of flight, and join him in the afterlife.",
+	
+	"Ceremonial burial is typically performed to prepare the deceased's spirit for their journey to Kluex.
+
+There are many forms of Avian burial, and the method often comes from the last will and testament of the deceased. Some Avians choose to float off attached to large balloons, while others favour cremation. Many simply opt for burial, but it is only the most important Avians who end up interred in tombs.",
+
+"It is common for these Avians to be buried with their worldly possessions. I have always found this a strange practise, but it transpires that many other species do the same. As a historian, it seems a shame to me to seal away sometimes-unique items, but I do also see the romanticism in being able to take your treasured things into the afterlife.",
+	
+"However, because of this trend, Avian tombs are often the targets of robbery. Our tombs are vast and many, and even the Sunborn through the ages are said to rest in many of them. Of course, the locations of the Sunborn corpses have never been disclosed due to potential looters, but any tomb one steps in could hold the body of Kluex's chosen.
+
+As a result, Tombkeepers are employed to protect these sacred places against intruders.",
+
+"Tombkeepers are often regarded by other Avians as weird or creepy. The reason for this is because they willingly volunteer to live in a tomb for ten years, sometimes even more. What others don't realise, though, is that being a Tombkeeper gives one plenty of time to reflect, to create, to plan. Some of my best works were prepared during my tenure as a Tombkeeper.",
+
+"Tombkeepers must possess exceptional physical and mental skill. While it's never been documented in Avian history, it's entirely possible that a large armed group could descend upon a tomb, set on stripping it of its riches.
+
+As such, we spend many years reading up on how to deal with such a situation, until we feel we're ready for anything."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Rare",
+    "price" : 100
+  }
+}

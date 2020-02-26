@@ -1,0 +1,26 @@
+{
+  "id" : "kkgsflorandrysap",
+  "title" : "A Cure For Dryness ^yellow;¤^reset;",
+  "species" : "floran",
+  "description" : "A Greenfinger's discovery and analysis of the mysterious Drysap.",
+  "icon" : "florancover5l.png",
+  "contentPages" : [
+
+    "A scouting party returned to me with a cutting from an unusual plant; a tree whose bark resembled bone. It grew from dirt, no water flowing through its veins. I bid them lead me to the copse they'd discovered, and sure enough, no water had touched that ground for aeons, I'd wager.",
+
+    "As the Florans hissed and danced and hunted creatures, I sat and studied this tree, eventually removing my tools and tapping the bark for sap. It surprised me when liquid began to flow from this dry trunk. Rich, thick, viscous sap, and yet something about it made me uneasy.",
+
+    "When we returned to the village that night, I immediately went to my apothecary to study this fluid. From the many weeks I have spent in my research, endless experiments I have run on the sap, and countless 'volunteers' for said experiments, I believe I may have found a use for this Drysap.",
+
+    "When injected into a living Floran, Drysap yields exceptional results. The sap quickly reproduces within Floran veins, replacing their own with a stronger, hardier substance that leaves the Floran body requiring almost no water. To an extent, this is a miracle serum.",
+
+    "But there are caveats; it has been found that the more intellectually advanced the Floran, the more susceptible they are to rejection of the Drysapping process. Those whose bodies reject the Drysap soon grow enraged and antisocial, reporting visions and night terrors.",
+
+    "Perhaps it is too early to allow Drysap treatment to gain mass circulation. Perhaps I shall send it to The Dust. At least there, any Floran Greenguard who succumbs can be marched straight into a cell."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Rare",
+    "price" : 100
+  }
+}

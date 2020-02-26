@@ -1,0 +1,52 @@
+{
+  "id" : "kkgsavianmechanicdiary",
+  "title" : "Journal of a Mechanic ^yellow;¤^reset;",
+  "species" : "avian",
+  "description" : "The journal of an Avian airship mechanic.",
+  "icon" : "aviancover13l.png",
+  "contentPages" : [
+
+    "DAY 3
+
+Working on an airship is one step closer to my dream. I wanna be part of a starship crew - of course, who doesn't - but these airships are the next best thing. Keeping everything top notch, in working order, this is my calling. It's hard work, but no harder than living in the thrall of Kluex. Here, I'm liberated.",
+	
+"I often think back to my days training as an Ascendant. At night I dream of the Celestial Tower, of those steps leading up to the heavens, and the descent that would have awaited me at the top. All told, I prefer a deck beneath my feet.",
+	
+"DAY 5
+
+I've been fooling around with the power crystals that keep this ship afloat, and I've come to the conclusion that I need to get my hands on some for a personal project. I miss tinkering in my workshop, creating all manner of fun contraptions.",
+
+"Getting a hold of some crystals won't be easy, though. They are - quite understandably - regulated. It wouldn't do for just anyone to have access to them, after all! But I'm a certified Avolite Engineer, I should be able to pull a few strings.",
+
+"DAY 11
+
+Unable to acquire power crystals through official channels, I was able to procure some from another airship who docked with us to trade. They had an unusually large number of spare crystals in their hold, and the villagers were being somewhat cagey when I asked about this.",
+
+"After some digging, I discovered the crystals were being traded to a Floran Greenfinger, in exchange for a batch of one of their experimental concoctions. I struck a deal with the captain; my silence, for a few of her crystals. A reasonable trade.",
+
+"DAY 17
+
+I've been tinkering in my workshop deep in the bowels of the ship, and created something rather remarkable. For a while now, I've been fascinated by the Glitch; those robot men who crop up every now and then. I decided to make my own.",
+
+"My little robot is powered by a crystal, and can perform menial tasks on command. It doesn't appear to have sentience, thankfully, but it makes up for that in enthusiasm and a willingness to serve. If my experiments pan out, I could have created the ideal worker.", 
+
+"DAY 19
+
+I had to destroy my robot today. Some meddling Hylotl found her way to my workshop, and for some reason this turned my companion hostile. It proceeded to patrol around the ship, menacing Avians, until I was able to shut it down a few hours later. After retrieving the power crystal, I threw my robot overboard.",
+
+"I plan to make a larger, more powerful robot, but it's going to require more power crystals. Perhaps with the right amount, I can give it enough intelligence to stop it attacking people on sight. Luckily the smuggler ship will be docking with us again later this evening, and I can make another request.",
+
+"DAY 20
+
+My attempts at blackmail have backfired. I'm here, trapped on the smuggler's ship, in the cargo hold. Kluex knows where they're taking me. Maybe they'll hand me over to this one crazy Floran I keep hearing about. There are rumblings of live experiments.",
+
+"I have no choice but to escape. I'll have to get creative. All I have is a bunch of smuggled power crystals, my soldering iron, and my robot, which for some reason the smugglers seem to have retrieved and attempted to fix. Naturally, they've broken it even more.",
+
+"I think I can salvage it, though. Perhaps in a different manner. I have an idea. I need a means of escaping myself, not simply a way of taking down the smugglers. Inspiration is building up inside me."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Rare",
+    "price" : 100
+  }
+}

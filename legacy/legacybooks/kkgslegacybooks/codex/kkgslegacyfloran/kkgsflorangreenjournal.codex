@@ -1,0 +1,64 @@
+{
+  "id" : "kkgsflorangreenjournal",
+  "title" : "A Greenguard's Journal ^yellow;¤^reset;",
+  "species" : "floran",
+  "description" : "The lost journal of a Floran Greenguard stationed in The Dust.",
+  "icon" : "florancover2l.png",
+  "contentPages" : [
+
+    "DAY 1
+
+So here I am, finally assigned to The Dust. My mother is a state, of course. 'The Greenguard is no place for a literate Floran!' she cried. But she was wrong. Oh, was she wrong.
+
+For moons I longed for the solitude, the darkness of The Dust, and when my transfer request was approved, I celebrated. Down here, amongst the universe's most unfortunate souls, I finally feel like I'm not alone any more.",
+
+"I'm sorry, Mother, but the Drysap pulses through my veins now. I am home.",
+
+"DAY 12
+
+Deep in the bowels of this place, I met a most curious Avian, who has rejected the teachings of her species and defied her gods. We spoke of freedom, and free will, and choice, and the soul. She gave me much to ponder over. Then one of my Greenguard peers threw a bucket of swill in her face. Perhaps there is meaning in this. I shall muse on it as I sleep tonight.",
+
+"DAY 16
+
+Perhaps my only reservation about being stationed in The Dust is the elders' insistence on transferring us regularly between outposts. It's to stop Greenguards becoming attached to prisoners, they say, although the chances of some of my peers developing any kind of emotional bond is next to zero.",
+
+"The journey between outposts is stressful, particularly with the Drysap working its magic. But this is the price I must pay to follow my dreams.",
+
+"DAY 18
+
+I lie awake at night in my cool, dark quarters, the sound of wailing echoing through the prison corridors, and I begin to question. Why do we hunt? Why do we kill? What drives us to be the species that we are?
+
+We are the trees, uprooted. The bushes, animated. The flowers and plants given sentience.",
+
+"Nature is gentle but cruel. Are we the cruel face of Nature itself? Or are we something more? We are the oaken soldiers. From the seeds we plant, a universe will sprout.",
+
+"DAY 19
+
+Upon re-reading my previous journal entry, I became alarmed and then afraid. Memories are growing hazy, as if there's a cold, hard knot of wood in my brain, tugging at my thoughts.",
+
+"I had my third Drysap treatment today. The doctor had to force the needle in. Afterwards she looked at me and hissed, as if she no longer recognised me as one of her own.
+    
+In the mess hall, I avoid my kin and choose to eat alone. The meat tastes rank and soiled. I hope I'm transferred soon.",
+
+"DAY 21
+
+I dreamed of oaken soldiers once more. Who is this army that sprawls before me? I feel a stiffening in my limbs as I wake. I think The Dust is getting to me. I require Drysap treatment once a week now, and even then it does little to ease my discomfort.",
+
+"DAY 23
+
+Today I killed a prisoner. I pushed him down the stairs on the way to dinner. The other guards cheered and hooted, but I felt no such pleasure. The thrill of the hunt is gone from me. I should set a torch to them and see how well they hunt then.",
+
+"DAY 28
+
+My superiors demand recompense. Recompense for what I've done. That terrible, unspeakable thing which breaks every Floran code, that which even in my distant state, I cannot bring myself to mention.",
+
+"Soon they will come for me, but who shall reach me first? My kin, with their spears and knives, baying for blood? Or the oaken soldiers, marching to reclaim me, to bring me back into their fold?
+
+Who will find me first?"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Rare",
+    "price" : 100
+  }
+}

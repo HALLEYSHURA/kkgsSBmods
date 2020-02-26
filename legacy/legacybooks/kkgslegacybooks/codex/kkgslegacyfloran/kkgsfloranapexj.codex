@@ -1,0 +1,36 @@
+{
+  "id" : "kkgsfloranapexj",
+  "title" : "A Close Encounter ^yellow;¤^reset;",
+  "species" : "floran",
+  "description" : "A journal detailing an Apex's encounter with a Floran.",
+  "icon" : "florancover3l.png",
+  "contentPages" : [
+
+    "DAY 5
+
+Big Ape protect me. I never thought I'd say that. Never thought I'd miss the Miniknog. Never thought I'd want to go home. These creatures, they're... ruthless, evil killing machines. It's like the forest has come to life around me.",
+
+"DAY 8
+
+I've finally done it. I've caught one of these abominable creatures. It hisses and screeches at me, but I think I can make out some words. They must have a rudimentary language.
+
+This creature will make the perfect gift for the Miniknog, as an apology for my past crimes. I just have to get out of this forest with my prey. A few more days. I can do this.",
+
+"DAY 11
+
+I have found myself warming to my Floran companion. It seems we are even managing to communicate. Perhaps it is wrong to enslave this creature for show. It seems to possess an intelligence and, dare I say it, empathy, that I had previously discounted.
+
+Dare I say it... I almost think we are becoming friends.",
+
+"DAY 13
+
+My captive looks at me so pityingly. I can't bear it. We have a bond, an understanding. I cannot do this. I will set it free. I sense no danger from it. Perhaps this will be the first step in securing Floran-Apex relations.",
+
+"(The rest of the book is torn and stained with blood, the remaining pages scrawled with the word 'stab' over and over.)"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Uncommon",
+    "price" : 40
+  }
+}

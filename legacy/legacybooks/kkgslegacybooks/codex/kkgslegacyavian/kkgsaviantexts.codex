@@ -1,0 +1,18 @@
+{
+  "id" : "kkgsaviantexts",
+  "title" : "The Writing of the Texts ^yellow;¤^reset;",
+  "species" : "avian",
+  "description" : "A study by Avian scholar K'arn Hollowbeak.",
+  "icon" : "aviancover6l.png",
+  "contentPages" : [
+
+    "It is with pride that I look upon the Avian holy texts, after exploring other species' religions. Many of their holy books are dubious, their origins undocumented, their words 'channelled'. The Avoscript, however, can be traced to historical documents written by the ancient Sunborn of the Aether, who had lived beside Kluex at the beginning of existence.",
+	
+	"This proof, I feel, is intrinsically linked to the strength of Avian faith. We do not have to blindly believe in Kluex, because we know he exists. Our ruling class, the Stargazers, are said to visit him in person. This makes it all the more inexplicable that there are some amongst the Grounded who deny Kluex's existence altogether."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Uncommon",
+    "price" : 40
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "kkgsflorantreetops",
+  "title" : "Abodes In The Boughs ^yellow;¤^reset;",
+  "species" : "floran",
+  "description" : "A Greenfinger's words on Floran treetop dwellings.",
+  "icon" : "florancover4l.png",
+  "contentPages" : [
+
+    "As the Florans feel a kinship with nature, it makes sense that some would shape their homes from the very trees that protect them. In these types of villages, it is customary for the Greenfinger to fashion a clan's first house in the tallest tree on-site.",
+
+    "Not only does this mean that the Greenfinger possesses the largest, most impressive dwelling in the village, but also that a fall from the house means certain death, should any opportunistic Floran be looking to usurp their superior."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Uncommon",
+    "price" : 40
+  }
+}

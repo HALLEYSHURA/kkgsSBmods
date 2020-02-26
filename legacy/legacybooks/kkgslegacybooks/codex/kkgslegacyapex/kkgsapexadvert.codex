@@ -1,0 +1,21 @@
+{
+  "id" : "kkgsapexadvert",
+  "title" : "An Apex Advertisement ^yellow;¤^reset;",
+  "species" : "apex",
+  "description" : "A poster advertising a special brand of banana. Miniknog-approved, of course.",
+  "icon" : "apexcover8l.png",
+  "contentPages" : [
+
+    "Try our patented Miniknog Bananas!
+100% Mind Control-free, guaranteed!
+
+Absolutely no risk of death, or your money back! Eat one today!
+
+Note: Not to be consumed while operating vehicles."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Uncommon",
+    "price" : 40
+  }
+}

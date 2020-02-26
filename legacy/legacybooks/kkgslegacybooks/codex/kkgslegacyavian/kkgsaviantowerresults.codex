@@ -1,0 +1,22 @@
+{
+  "id" : "kkgsaviantowerresults",
+  "title" : "Results of Ascension #38491 ^yellow;¤^reset;",
+  "species" : "avian",
+  "description" : "A results log from a an Avian ascension.",
+  "icon" : "aviancover11l.png",
+  "contentPages" : [
+
+    "Larbeak: KIA
+Jumpeck: Withdrew
+Skydiver: KIA
+Crimsonwing: DQ (successful jump, but landed in bale of hay)
+Freefeather: Withdrew
+Corale: DQ (Ascendant performed a successful jump, but was discovered to be a Hylotl)
+Thornwing: MIA"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Uncommon",
+    "price" : 40
+  }
+}

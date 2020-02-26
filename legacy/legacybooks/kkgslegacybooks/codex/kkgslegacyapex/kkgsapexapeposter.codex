@@ -1,0 +1,16 @@
+{
+  "id" : "kkgsapexapeposter",
+  "title" : "Big Ape Poster ^yellow;¤^reset;",
+  "species" : "apex",
+  "description" : "A poster detailing Apex figure Big Ape.",
+  "icon" : "apexcover4l.png",
+  "contentPages" : [
+
+    "(On the poster, Big Ape - here depicted as a buff gorilla - is doing the thumbs-up sign. Below the picture, the text reads 'Bigger IS Better - Big Ape is watching.')"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Uncommon",
+    "price" : 40
+  }
+}

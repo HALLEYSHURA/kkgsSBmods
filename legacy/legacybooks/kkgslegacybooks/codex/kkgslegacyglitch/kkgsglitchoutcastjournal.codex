@@ -1,0 +1,22 @@
+{
+  "id" : "kkgsglitchoutcastjournal",
+  "title" : "An Outcast's Journal ^yellow;¤^reset;",
+  "species" : "glitch",
+  "description" : "The journal of a Glitch outcast.",
+  "icon" : "glitchcover9l.png",
+  "contentPages" : [
+
+    "Never have I felt so alone. I am surrounded by my Glitch kin, and yet I know deep down I am an outcast. At night, I sleep, and I dream. Dream! Glitch do not dream. I dream of escape, of journeying beyond the stars, of carving a life out for myself, away from this drudgery.",
+
+    "I almost caught myself second-guessing a directive out loud today. My thought process is changing. It terrifies me. I have desires, now. I question things. Who created us? Where do we come from? What ARE we?",
+
+	"I can feel myself slowly disconnecting from my coding, and while this scares me, there is a feeling of comfort there too.
+
+I am alone, but I know there are others like me, out there. I know I will find them."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Uncommon",
+    "price" : 40
+  }
+}

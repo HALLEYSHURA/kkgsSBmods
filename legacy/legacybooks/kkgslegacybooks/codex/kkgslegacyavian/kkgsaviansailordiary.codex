@@ -1,0 +1,18 @@
+{
+  "id" : "kkgsaviansailordiary",
+  "title" : "A Sailor's Diary ^yellow;¤^reset;",
+  "species" : "avian",
+  "description" : "The diary of an Avian shipworker.",
+  "icon" : "aviancover13l.png",
+  "contentPages" : [
+
+    "This Greenfinger guy is becoming demanding. What do they want with all these power crystals, anyway? I don't trust a client who won't meet me in person. Always sends their creepy plant people to get the deliveries. Still, that Drysap gets a high price on the black market, so can't complain.",
+
+    "That mechanic from last month wound me up to no end, though. I don't respond well to blackmail. I mention this as we're docking with the ship he works on again tonight. I hope he has the good sense to leave things be. If not, we're prepared this time..."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Uncommon",
+    "price" : 40
+  }
+}

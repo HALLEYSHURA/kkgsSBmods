@@ -1,0 +1,34 @@
+{
+  "id" : "kkgsaviantornnote",
+  "title" : "The Truth About Kluex ^yellow;¤^reset;",
+  "species" : "avian",
+  "description" : "Notes torn from an Avian pilot's journal.",
+  "icon" : "aviancover9l.png",
+  "contentPages" : [
+
+    "DAY 1
+
+While it is the case that I may have escaped for my own self-preservation, it is important I do not forget my larger mission also. Kluex is not real. I will prove it. If I can do this, I can free my people.
+
+I will uncover the secret behind the Kluex deception. But also flee for my life.",
+	
+"DAY 6
+
+I've returned to the temple today. I don't know why. The Stargazers posture and preen, preaching their lies, and the mere sight of our false god makes me sick.
+
+All I want to do is tear down this entire place, climb atop the rubble, and scream.",
+
+"DAY 7
+
+My denial of Kluex is not an act of rebellion, it is an act of liberation. That's what I told myself.
+
+But I got curious. I had to know. And in that, I discovered the truth.
+
+Klue (The note ends here.)"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Uncommon",
+    "price" : 40
+  }
+}

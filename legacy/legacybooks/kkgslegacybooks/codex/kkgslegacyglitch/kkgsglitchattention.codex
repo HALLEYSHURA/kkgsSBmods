@@ -1,0 +1,18 @@
+{
+  "id" : "kkgsglitchattention",
+  "title" : "ATTENTION: to all Glitch Guards ^yellow;¤^reset;",
+  "species" : "glitch",
+  "description" : "A printed message directed to stationed guardsmen.",
+  "icon" : "glitchcover8l.png",
+  "contentPages" : [
+
+    "We have tolerated the Outcasts at a distance, with the understanding that they do not infiltrate our most precious of sanctums; our castles, our homes, our underground fight clubs. Outcasts have infiltrated all these places. They loiter around, sharing ideas and philosophies with all who will listen. It is becoming more than a little disconcerting.",
+
+    "Our goodwill can only last so long. They are corrupting many of our number and disrupting our very way of life. Any Outcast spotted on the premises must be immediately arrested and sent to the laboratories for repurposing, or failing that, hit repeatedly with a large hammer until they go away."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Uncommon",
+    "price" : 40
+  }
+}

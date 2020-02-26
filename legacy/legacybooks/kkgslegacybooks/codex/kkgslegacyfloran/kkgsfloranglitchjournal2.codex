@@ -1,0 +1,20 @@
+{
+  "id" : "kkgsfloranglitchjournal2",
+  "title" : "A Teacher's Journal 2 ^yellow;¤^reset;",
+  "species" : "floran",
+  "description" : "A couple of pages from a Glitch teacher's diary.",
+  "icon" : "florancover9lb.png",
+  "contentPages" : [
+
+    "My young charge has thrown himself into the task of producing a novel with aplomb. He sits up there, day in, day out, typing away on the computer I procured for him.
+
+He refuses to allow me to read what he has written, but he is an artist! I must let him work, let the words flow, let the genius come forth. I know what dwells within his heart, and what stories he has to tell.",
+
+"Perhaps I should find a publisher for his book. The first Floran-written novel... imagine! It'll be known throughout the universe as a legendary work of art!"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Uncommon",
+    "price" : 40
+  }
+}

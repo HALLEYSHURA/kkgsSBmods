@@ -1,0 +1,18 @@
+{
+  "id" : "kkgsapexcasebook",
+  "title" : "The Plight of the Apex ^yellow;¤^reset;",
+  "species" : "apex",
+  "description" : "A study of Apex society by Glitch bounty hunter Hewlett Deckard.",
+  "icon" : "apexcover10l.png",
+  "contentPages" : [
+
+    "Arriving at an Apex town always fills me with sadness. The Apex plight is not unlike the Glitch's, but a thousand times worse. Here, the Miniknog have broken the population, reducing them to mindless slaves. Put a foot wrong, and the Miniknog are on you. Do nothing wrong, and chances are they will be anyway.",
+	
+	"Worse yet, I hear rumours of mysterious labs on remote planets, of horrific experiments and terrifying beasts. There's also talk of 'Big Ape', a foreboding Apex figure depicted on posters and television screens, whose name the citizens mutter in hushed, reverent tones."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Uncommon",
+    "price" : 40
+  }
+}

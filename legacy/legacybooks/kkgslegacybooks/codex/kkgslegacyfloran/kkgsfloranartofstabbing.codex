@@ -1,0 +1,42 @@
+{
+  "id" : "kkgsfloranartofstabbing",
+  "title" : "The Art of Stabbing ^yellow;¤^reset;",
+  "species" : "floran",
+  "description" : "The compiled hunting notes of Floran Huntmaster Sunflower Tzu.",
+  "icon" : "florancover6l.png",
+  "contentPages" : [
+
+    "PAGE 5
+
+Some believe that the only worthy prey is that which is larger, stronger, faster than you. Sunflower Tzu say; nonsense. Kill's a kill. If it moves, stab it. If it fights back, stab it a lot.
+
+If it charges you off a cliff, pins you to a tree and bites you repeatedly, stab stab stab until your hunting crew arrive. Happened to me once. Monstrous creature. First 'human' I ever killed. Good hunt. Good times.",
+
+"PAGE 23
+
+During long travels in the Greater Wilderness, Sunflower Tzu discover abandoned Human supply house. Oddly, supplies included mysterious Moving Picture Machine and rare functioning Shiny Circle needed to make it work.",
+
+"This shiny circle had nothing of note, showing a group of Human Warriors at their prime navigating through a place very similar to the Great Flora, until one of them says, \"If bleeds, we can kill it.\" Such perspective had not crossed the mind of Sunflower Tzu, and prompted many day cycles of contemplation.",
+
+"PAGE 51
+
+\"Why only destroy? Why exist just to hunt?\" A Hylotl said this to Sunflower Tzu once. I stabbed it, then thought on what it said. The answer is simple. Because hunting is awesome. Hunt. Track. Stab. Other species missing out.
+
+Floran superiority asserted through stabbing and to a lesser extent, singing around campfires. Hunting is in our sap, it is who we are. Do not fight the hunt, or the hunt will fight you. With stabbing.",
+
+"PAGE 64
+
+Sunflower Tzu has observed that many species have 'rules of war'. Florans do not observe such ridiculous practises. Why face your armed enemy on the battlefield when you can stab them in their sleep? Why see the whites of their eyes when you can trick them into falling on spikes? To fail is to bring dishonour upon your cocoon-kin. There is no such thing as cheating, only failing.",
+
+"PAGE 87
+
+Traditionally, Sunflower Tzu recommend Floran use stabbing weapons, but only because they can stab. Anything can be used as a weapon. Bones, branches, pennies in a sock, all traditional, primal weaponry.
+
+And when your weapons break, do not be afraid to use the strength Nature gave you. Once, Sunflower Tzu punched a bear's head clean off. You too can achieve this if you try."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Rare",
+    "price" : 100
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id" : "kkgsapexchildsrhyme",
+  "title" : "A Child's Rhyme ^yellow;¤^reset;",
+  "species" : "apex",
+  "description" : "A Miniknog-issued nursery book.",
+  "icon" : "apexcover3l.png",
+  "contentPages" : [
+
+    "There once was an ape called Big Ape
+Whose brain was the size of a grape
+He swung through the trees
+And got riddled with fleas
+And GLORY TO BIG APE
+HAIL THE MINIKNOG
+DO NOT RESIST"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Uncommon",
+    "price" : 40
+  }
+}

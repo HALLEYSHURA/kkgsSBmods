@@ -1,0 +1,24 @@
+{
+  "id" : "kkgsflorantreestabinterview",
+  "title" : "The Perennial Bloom, Issue 8 ^yellow;¤^reset;",
+  "species" : "floran",
+  "description" : "A magazine popular in Floran villages. The featured article is a review of the novel Floran Peace.",
+  "icon" : "florancover10l.png",
+  "contentPages" : [
+
+    "FLORAN PEACE: MASTERPEICE OR MESS?
+
+Billed as \"A master work of literature, a true piece of art in the spirit of the inimitable Florans\" by its Glitch publishers, Floran Peace had a lot to live up to. While its Floran author Treeio Florstab says his writing combines \"a vocabulary to rival even the brightest Hylotl, the imagination to outdo the most energetic human, and the spiritual understanding to out-theologise an Avian\", reviews have said otherwise.",
+
+"Critics have slammed the novel as \"a failure on all accounts.\" Avian author Roger Seabird comments that \"Floran Peace is a mess of plot ideas that go nowhere, with everything being resolved via stabbing. Character development is nonexistent, and it's impossible to warm to any of the protagonists given their propensity for murder. The middle section, particularly puzzling, is simply a fifty thousand word diatribe against the Hylotl.\"",
+
+"Hylotl philosopher Nami Nanashi, when asked about her thoughts on Floran Peace, replied \"The savage plant-species may be skilled hunters, but this skill does not translate to the page. Despite the old adage, it seems that for the author Florstab, the sword is in fact mightier than the pen.\"",
+
+"In the weeks following the book's release, Treeio Florstab fled his home village after a series of critical maulings in the intergalactic press. His writing tutor, one Glitch Professor Irondome, was found with a copy of Florstab's debut novel rammed into his mouth, and quoting pretentious dialogue presumably from the book. The Glitch was okay, though he reports that Florstab apparently told him that he'd make sure the universe would 'remember my name'."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Rare",
+    "price" : 100
+  }
+}

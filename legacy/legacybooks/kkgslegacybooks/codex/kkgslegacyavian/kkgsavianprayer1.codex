@@ -1,0 +1,30 @@
+{
+  "id" : "kkgsavianprayer1",
+  "title" : "A Commoner's Prayer ^yellow;¤^reset;",
+  "species" : "avian",
+  "description" : "A traditional prayer among Avian villagers.",
+  "icon" : "aviancover5l.png",
+  "contentPages" : [
+
+    "Almighty Kluex
+Soar above us
+Watch over us
+Bless us with your glory
+
+We the flightless
+Turn our heads heavenwards
+To you, oh Kluex
+Our star in the sky",
+
+"Bless the Ascendants
+Who peck at the earth
+Waiting for your call
+May they one day soar
+Into Kluex's loving embrace"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Uncommon",
+    "price" : 40
+  }
+}

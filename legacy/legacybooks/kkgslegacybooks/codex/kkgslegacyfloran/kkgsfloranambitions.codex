@@ -1,0 +1,22 @@
+{
+  "id" : "kkgsfloranambitions",
+  "title" : "Ambitions ^yellow;¤^reset;",
+  "species" : "floran",
+  "description" : "A Floran's personal journal.",
+  "icon" : "florancover1l.png",
+  "contentPages" : [
+
+    "Floran forget. At night, Floran dream of oaken sssoldiers, of ssslimy demons, burning hot fire. In dry grass, beneath crashing waves, memories hazy. Do Floran forget, or remember?
+
+Floran do know hunt. Kill or be killed. Fight, ssurvive, destroy. Floran not remember much. Floran Greenfinger help. But Floran know one thing. Ssstab sstab sstab.",
+	
+	"Ssstab, ssmash, hunt. Find glory, make good Floran. Ssstab. Get best kill. Win all of Florans. Punch all of the prey.
+
+Making friends would be nice too."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Uncommon",
+    "price" : 40
+  }
+}

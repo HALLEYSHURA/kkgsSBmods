@@ -1,0 +1,22 @@
+{
+  "id" : "kkgsapexlabblog1",
+  "title" : "Assistant's Blog Entry 1 ^yellow;¤^reset;",
+  "species" : "apex",
+  "description" : "The transcribed blog of an Apex lab assistant.",
+  "icon" : "apexlabblog1l.png",
+  "contentPages" : [
+
+    "Yesterday I was prodding and poking at tiny animal corpses, working out how they tick. Today, I'm assistant to the most brilliant Apex minds in history, working on a important top secret project.",
+
+    "It's funny how your life can change! I never thought my talent would be noticed, and yet here I am. Doctor Lax is a stern, serious woman. She's very focused on work. This suits me fine. Already, the lab workers who slack off have been let go.",
+
+    "The experiments we are doing make me somewhat uncomfortable, though. Remember Randy, the guy I often complained about who never took the work seriously? Well, apparently he 'volunteered' as a test subject.",
+
+    "I've never seen a volunteer seem so resistant. We strapped him down, and began pumping him full of some kind of chemical or other. Thankfully, whatever it was seemed to have no effect on him, as he was back in the mess hall joking around that night."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Rare",
+    "price" : 100
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id" : "kkgsapexlabblog2",
+  "title" : "Assistant's Blog Entry 2 ^yellow;¤^reset;",
+  "species" : "apex",
+  "description" : "The transcribed blog of an Apex lab assistant.",
+  "icon" : "apexlabblog2l.png",
+  "contentPages" : [
+
+    "Last night, a calamity occurred. An intruder broke into our lab and trashed the place. Doctor Lax was incredibly edgy about it all. She spent hours looking to see if anything had been taken. It did not seem to have been.",
+
+    "Randy was missing, though. Didn't show up for the second phase of his trials, not that they could go ahead. Doctor Lax put in a number of calls, and soon we were being transported off-world, to a secret location. It all happened so fast.",
+	
+    "Turns out, the plan is to keep our lab mobile, never staying in one place for too long. I asked Doctor Lax how this benefits the experiment, but she screamed angrily at me and told me to mind my own business.",
+
+    "I am beginning to suspect that this change has nothing to do with our experiment, and everything to do with Doctor Lax. Just what is it she's running from? Am I in danger myself? Find out in the next exciting installment of my blog!"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Rare",
+    "price" : 100
+  }
+}

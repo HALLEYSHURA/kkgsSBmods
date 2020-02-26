@@ -1,0 +1,18 @@
+{
+  "id" : "kkgsfloranglitchjournal1",
+  "title" : "A Teacher's Journal 1 ^yellow;¤^reset;",
+  "species" : "floran",
+  "description" : "A page from a Glitch teacher's diary.",
+  "icon" : "florancover9la.png",
+  "contentPages" : [
+
+    "My pupil, this eager Floran youth, has expressed much delight in the idea of becoming a famous writer. I am teaching him how to construct sentences, and he is making fast progress. Imagine it, a Floran, writing a great universal novel.
+
+But there is much work to be done. I still need to teach him that 'stab' does not stand in for just any word."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Uncommon",
+    "price" : 40
+  }
+}

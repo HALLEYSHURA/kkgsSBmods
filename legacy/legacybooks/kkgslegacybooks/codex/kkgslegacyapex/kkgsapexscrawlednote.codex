@@ -1,0 +1,16 @@
+{
+  "id" : "kkgsapexscrawlednote",
+  "title" : "A Scrawled Note ^yellow;¤^reset;",
+  "species" : "apex",
+  "description" : "A messily-written note.",
+  "icon" : "apexcover13l.png",
+  "contentPages" : [
+
+    "Memories black. Feel... pain. Changes. I was... I was... I feel the formulas. Remember who did this. Remember. Florans. Miniknog. Administrator. All crush. All crush."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Uncommon",
+    "price" : 40
+  }
+}

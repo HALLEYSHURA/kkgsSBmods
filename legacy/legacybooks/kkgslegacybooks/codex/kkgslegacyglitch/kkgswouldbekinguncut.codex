@@ -1,0 +1,40 @@
+{
+  "id" : "kkgswouldbekinguncut",
+  "title" : "The Would-Be King UNCUT ^yellow;¤^reset;",
+  "species" : "glitch",
+  "description" : "A Glitch folk tale. The complete and uncut edition.",
+  "icon" : "glitchcover4l.png",
+  "contentPages" : [
+
+    "Once upon a time, before the dawn of the Outcasts, all the Glitch lived peacefully together. They had their villages and castles and fields and all sorts of other things that robots like. They lived happily and prosperously, thousands of minds working together. But one day, a single Glitch walked into the castle, took a seat on the throne, and loudly proclaimed; 'Decisive. I am the king.'",
+	
+	"The other Glitch stared at this unusual sight for a while, but did not know what to say. A self-proclaimed ruler was not something they were prepared for. As such, and with no real understanding of the situation , the Glitch were forced to obey.",
+	
+	"The new Glitch king called himself Dreadwing, and ruled with an iron fist. His subjects were expected to work day and night, which at first was not a problem for the Glitch since they rarely feel the need to rest. Soon, however, it became clear that the wear and tear on Glitch parts was an issue, and Dreadwing demanded the construction of more Glitch to boost his ranks.",
+	
+	"The Glitch were puzzled here, because at no point in their species history had they ever been able to create more of their number. For as long as they could, they put off this task, until one day Dreadwing descended into a fit of such ferocious anger that the Glitch knew they had to do something.",
+	
+	"Day by day, Dreadwing grew more apoplectic as the number of Glitch never grew. In fact, his anger was such that he took to hurling his subjects from the castle tower, thus causing the population to shrink rather than grow. This made him even more angry.",
+
+    "One day, a group of Glitch scientists hit upon an idea. They had no idea how to create more of their number, of course, but they were rather adept at making stylish suits of armour. It had often been remarked upon how the armour looked like the Glitch themselves, and so they set to work commissioning a number of blacksmiths to make as many suits of armour as possible.",
+	
+    "The Glitch blacksmiths toiled day and night to create an army suitable for their lord Dreadwing. Of course, this army didn't fight, or even move, but they looked really great at certain angles. Eventually, though, the blacksmiths ran out of room for their false army, and realised it was time to unveil it.",
+
+    "This posed a problem in itself. Of course, the army was not capable of marching on the castle, or marching anywhere. A plan was needed. A plan that even Dreadwing would not question. And finally that plan came together; the Glitch would host a parade.",
+	
+	"The army paraded past on floats, towed by a number of Glitch workers and a Floran who'd decided to join in unannounced. Dreadwing sat atop his iron throne, brought outside into the city, and applauded each and every unit. 'They stand very still,' he remarked, to which his aides replied 'yes, they are very disciplined.'",
+
+    "As the last float made its way down the street, the entire crowd gasped as one of the soldiers leaped from the stand, and charged towards Dreadwing. Most surprised of all were the blacksmiths, who knew full well that their 'soldiers' were little more than decorative suits of armour. Dreadwing, however, thought it was all part of the show.",
+	
+    "King Dreadwing applauded and whooped as the armoured Glitch careened towards him. It was only as the soldier lowered its blade and charged that he suspected something was wrong. The blade pierced his metal shell, which shattered with a deafening crack.",
+
+    "All the Glitch watched as their king fell backwards, his Glitch disguise falling away, revealing a small, black and white bird-like creature. The Glitch had been duped! All this time, their tyrannical, unusual king had been a penguin in disguise. It made perfect sense. Realising the game was up, and badly injured, the evil penguin made his escape, never to be seen again.",
+
+    "The rogue soldier turned out to be the impromptu Floran, who had grown bored and decided to go on a hunting spree. She was made an honorary hero of the Glitch people, but then immediately exiled because killing kings is bad, even if they were penguins in disguise. From that day forth, the Glitch vowed never to allow another monarch to take control, even if they asked really nicely."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Legendary",
+    "price" : 200
+  }
+}

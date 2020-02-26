@@ -1,0 +1,22 @@
+{
+  "id" : "kkgsapexapology",
+  "title" : "An Apology ^yellow;¤^reset;",
+  "species" : "apex",
+  "description" : "A journal entry. It doesn't seem to have been penned by an Apex.",
+  "icon" : "apexcover13l.png",
+  "contentPages" : [
+
+    "Unhappy to have left the science compound. Sharing our species' secret is not something I take lightly. My acquaintance, the Apex scientist Doctor Lax, can be trusted. I have utter faith in her.
+
+And yet, this is not something I can leave up to faith.",
+
+"I was barely off-planet before putting the call in to the Apex's Supervisor. His forces have been dispatched. No loose ends. It is how we've survived thus far, and how we will continue to survive.
+
+I am sorry, Doctor."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Uncommon",
+    "price" : 40
+  }
+}

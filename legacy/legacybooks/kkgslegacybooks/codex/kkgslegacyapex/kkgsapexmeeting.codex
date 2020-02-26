@@ -1,0 +1,32 @@
+{
+  "id" : "kkgsapexmeeting",
+  "title" : "Minutes of a Meeting ^yellow;¤^reset;",
+  "species" : "apex",
+  "description" : "A transcript of a top-secret Miniknog meeting.",
+  "icon" : "apexcover1l.png",
+  "contentPages" : [
+
+    "MINIKNOG MEETING TRANSCRIPT #284
+	
+Note: Real names undisclosed for safety, should this document fall into Resistance hands. Miniknog officials should be vigilant at all times.
+
+Participants: ADMINISTRATOR, CHIEF SCIENTIST, SUPERVISOR, GENERAL",
+
+"ADMINISTRATOR: So, let's get started then. We have important things to discuss.
+CHIEF SCIENTIST: (REDACTED)
+SUPERVISOR: (REDACTED)
+GENERAL: Are you serious?",
+
+"ADMINISTRATOR: (REDACTED)
+ADMINISTRATOR: (REDACTED)
+ADMINISTRATOR: (REDACTED)
+ADMINISTRATOR: And that's why you should never date a Hylotl.
+SUPERVISOR:  Big Ape save us.
+CHIEF SCIENTIST: (REDACTED)"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Uncommon",
+    "price" : 40
+  }
+}

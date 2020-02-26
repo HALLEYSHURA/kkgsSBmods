@@ -1,0 +1,27 @@
+{
+  "id" : "kkgsavianprayer2",
+  "title" : "A Stargazer's Prayer ^yellow;¤^reset;",
+  "species" : "avian",
+  "description" : "A prayer traditionally read by Stargazer priests.",
+  "icon" : "aviancover7l.png",
+  "contentPages" : [
+
+    "Almighty Kluex
+We spread our wings and fly
+Guide us as we soar
+Deliver us from turbulence
+And save us from the ground
+
+May your wisdom guide us
+May your prophets watch us
+May your glory enlighten us
+
+Almighty Kluex
+Carry us on golden wings"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Uncommon",
+    "price" : 40
+  }
+}

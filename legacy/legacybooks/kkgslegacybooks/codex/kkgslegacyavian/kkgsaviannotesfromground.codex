@@ -1,0 +1,18 @@
+{
+  "id" : "kkgsaviannotesfromground",
+  "title" : "Words from the Ground ^yellow;¤^reset;",
+  "species" : "avian",
+  "description" : "A Grounded propaganda newspaper.",
+  "icon" : "aviancover8l.png",
+  "contentPages" : [
+
+    "The Grounded cause grows in strength. Whether it be those who defy Kluex, or those who deny Kluex, our villages are flourishing. We reach out across the universe, spreading our atheist teachings far and wide.",
+
+    "Other species are beginning to learn of the Stargazers' deception. Many years ago, someone asked me 'how do you kill a god?'. I've learned the answer. You make sure people don't believe. With this knowledge, the power lies with the Grounded. We will fly again."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Uncommon",
+    "price" : 40
+  }
+}

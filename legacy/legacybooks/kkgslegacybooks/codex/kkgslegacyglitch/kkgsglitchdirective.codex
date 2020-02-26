@@ -1,0 +1,24 @@
+{
+  "id" : "kkgsglitchdirective",
+  "title" : "Personalized Directive List ^yellow;¤^reset;",
+  "species" : "glitch",
+  "description" : "A printed list. It does not seem to belong to any particular Glitch you can think of.",
+  "icon" : "glitchcover8l.png",
+  "contentPages" : [
+
+    "Smelt any rusted swords
+Gather an appropriate amount of logs
+Perform any Glitch repairs
+Develop a new recipe
+
+Check the perimeter for Outcasts
+Check the library for philosophy texts
+Create a protocol for greeting visitors of other species
+Repair all houses"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Uncommon",
+    "price" : 40
+  }
+}

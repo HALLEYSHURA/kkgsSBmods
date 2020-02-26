@@ -1,0 +1,18 @@
+{
+  "id" : "kkgsavianflightpropa",
+  "title" : "The Flightless Mandate ^yellow;¤^reset;",
+  "species" : "avian",
+  "description" : "The philosophy of the Flightless.",
+  "icon" : "aviancover1l.png",
+  "contentPages" : [
+
+    "We walk the earth, our wings trailing dust, no longer do we fly. We do this out of love and devotion. Kluex guides us, Kluex begs us. We ask not for answers, for Kluex's wisdom is absolute. And yet, Kluex grants us answers.",
+
+    "We once dwelled in the great skies of the Aether. Too close we flew to the sun. Kluex could no longer protect us. And so we make this sacrifice; our wings stay clipped, in the knowledge that one day our species will strengthen, and Kluex will allow us to fly once more."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Uncommon",
+    "price" : 40
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id" : "kkgsapexchant",
+  "title" : "Glory to Big Ape ^yellow;¤^reset;",
+  "species" : "apex",
+  "description" : "A 'traditional' Miniknog-issued Apex chant.",
+  "icon" : "apexcover3l.png",
+  "contentPages" : [
+
+    "Big Ape, Big Ape
+He's big and he's an ape
+He's glorious, a leader
+And everyone obeys him.
+
+He's handsome and he's tough
+Through the smooth and through the rough
+Glory to mighty Big Ape
+We serve him with a smile!"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Uncommon",
+    "price" : 40
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id" : "kkgsavianhawkwings2",
+  "title" : "Revelation ^yellow;¤^reset;",
+  "species" : "avian",
+  "description" : "The final words of Rochard Hawkwings.",
+  "icon" : "aviancover11l.png",
+  "contentPages" : [
+
+    "I was visited by the Stargazers themselves. They have heard of me, of my work. And so, too, has Kluex. I was summoned.
+
+Let me just say I was wrong. I have been wrong this whole time. I am a fool and a rogue. Glory to Kluex. I have gazed upon our lord with my own eyes, and I know now the truth. Grounded, it is not too late! Repent, come back to the flock. Kluex will forgive you. Do not doubt his power."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Uncommon",
+    "price" : 40
+  }
+}

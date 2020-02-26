@@ -1,0 +1,32 @@
+{
+  "id" : "kkgsfloranbonedragon",
+  "title" : "The Bone Dragon ^yellow;¤^reset;",
+  "species" : "floran",
+  "description" : "An explorer's studies on the mythical dragons.",
+  "icon" : "florancover11l.png",
+  "contentPages" : [
+
+    "Dragons aren't real. That's the story told across all species.
+
+The Florans, the hunters of great prey, would dismiss the idea of dragons as mere folly. Mostly because if they encountered one, they'd be too busy killing it to care about what it is.
+
+But dragons were real, once. That is, if the bones of some gargantuan beasts truly are of draconic origin.",
+
+"To lure a dragon goes as such: lay down the right bait, and the creature swoops in from the skies, scorching all in its path. Mindless, murderous, with seemingly no goal other than utter ruin, it's truly a sight to behold.
+
+Supposedly, the only person to successfully tame a dragon is the Hylotl known as Hiraki Corale, who grew bored and released the creature minutes later. When asked, she claimed she had forgotten how she befriended the beast, let alone managed to capture it.",
+
+"Lately, there have been reported sightings of dragons soaring through the skies once more, their bones brought back to life to once again reap destruction.
+
+But why have they returned? Nobody knows. Not even the Floran Greenfingers truly know.",
+
+"Perhaps it is the work of those strange, winged demons sighted on distant planets. Or maybe the unusual Agarans, the mushroom people who till the earth?
+
+Or perhaps it is the work of those mysterious, hooded figures adventurers have spoken of. Those cultists, who claim to possess a dark, necromantic magic, and whose hidden master has yet to play their hand..."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Rare",
+    "price" : 100
+  }
+}

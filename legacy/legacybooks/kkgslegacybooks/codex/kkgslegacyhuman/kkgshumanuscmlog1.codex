@@ -1,0 +1,21 @@
+{
+  "id" : "kkgshumanuscmlog1",
+  "title" : "USCM Personnel Log #12572 ^yellow;¤^reset;",
+  "species" : "human",
+  "description" : "A transmission log. 'PROPERTY OF THE USCM' is stamped on the disk.",
+  "icon" : "humancover6l.png",
+  "contentPages" : [
+
+    "UNENCRYPTED QUANTUM TRANSMISSION RECEIVED
+FROM: USCMCENTCOM EARTH
+
+BEGIN MESSAGE:
+ALL STATIONS. EARTH UNDER HEAVY ATTACK. ORDERS ARE TO HOLD FAST. GOOD LUCK
+END MESSAGE"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Uncommon",
+    "price" : 40
+  }
+}
