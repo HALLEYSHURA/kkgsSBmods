@@ -1,0 +1,32 @@
+[
+	{
+		"op" : "add",
+		"path" : "/destinations/-",
+		"value" : {
+				"name" : "VENOM",
+				"planetName" : "Twisted by pollution.",
+				"warpAction" : "InstanceWorld:kkgsdreamtoxicsea",
+				"icon" : "toxic"
+		}
+	},
+	{
+		"op" : "add",
+		"path" : "/destinations/-",
+		"value" : {
+				"name" : "ARKTOS",
+				"planetName" : "Calm yet bitterly cold.",
+				"warpAction" : "InstanceWorld:kkgsdreamarcticsea",
+				"icon" : "arctic"
+		}
+	},
+	{
+		"op" : "add",
+		"path" : "/destinations/-",
+		"value" : {
+				"name" : "MOLTARA",
+				"planetName" : "Super hot. No swimming.",
+				"warpAction" : "InstanceWorld:kkgsdreammagmasea",
+				"icon" : "magma"
+		}
+	}
+]

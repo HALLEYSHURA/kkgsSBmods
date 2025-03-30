@@ -1,0 +1,11 @@
+{
+  "version" : "1.1.1",
+  "tags" : "Miscellaneous",
+  "author" : "kokorogensou",
+  "description" : "adds a sampling of rarer codexes from gensou's legacy lore to GonDragon's Bookstore.",
+  "name" : "gensou's legacy lore - The Bookstore addon LITE",
+  "friendlyName" : "gensou's legacy lore - The Bookstore addon LITE",
+  "steamContentId" : "1339776601",
+  "link" : "steam://url/CommunityFilePage/1339776601",
+  "includes" : ["gensou's legacy lore", "bookstore"]
+}

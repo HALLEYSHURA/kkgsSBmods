@@ -1,0 +1,11 @@
+{
+  "version" : "1.0",
+  "author" : "kokorogensou",
+  "tags" : "Planets and Environments",
+  "description" : "removes hueshift from virtua planets.",
+  "name" : "kkgsplainvirtua",
+  "friendlyName" : "plain virtua planets",
+  "steamContentId" : "1897991449",
+  "link" : "steam://url/CommunityFilePage/1897991449",
+  "includes" : ["kkgsvirtua"]
+}

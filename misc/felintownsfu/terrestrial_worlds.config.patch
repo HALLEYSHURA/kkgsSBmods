@@ -1,0 +1,12 @@
+[
+	{ "op" : "add", "path": "/planetTypes/arboreal/layers/surface/dungeons/-", "value" : [2.0,"felinvillage"] },
+	{ "op" : "add", "path": "/planetTypes/arboreal2/layers/surface/dungeons/-", "value" : [2.0,"felinvillage"] },
+	{ "op" : "add", "path": "/planetTypes/bog/layers/surface/dungeons/-", "value" : [1.0,"felinvillage"] },
+	{ "op" : "add", "path": "/planetTypes/chromatic/layers/surface/dungeons/-", "value" : [1.0,"felintown"] },
+	{ "op" : "add", "path": "/planetTypes/desertwastesdark/layers/surface/dungeons/-", "value" : [1.0,"felintown"] },
+	{ "op" : "add", "path": "/planetTypes/desertwastes/layers/surface/dungeons/-", "value" : [1.0,"felintown"] },
+	{ "op" : "add", "path": "/planetTypes/eden/layers/surface/dungeons/-", "value" : [2.0,"felintown"] },
+	{ "op" : "add", "path": "/planetTypes/snowdark/layers/surface/dungeons/-", "value" : [1.0,"felinvillage"] },
+	{ "op" : "add", "path": "/planetTypes/thickjungle/layers/surface/dungeons/-", "value" : [2.0,"felinvillage"] },
+	{ "op" : "add", "path": "/planetTypes/tundradark/layers/surface/dungeons/-", "value" : [1.0,"felintown"] }
+]

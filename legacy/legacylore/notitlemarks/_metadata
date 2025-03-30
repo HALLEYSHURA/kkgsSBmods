@@ -1,0 +1,11 @@
+{
+  "version" : "1.0",
+  "author" : "kokorogensou",
+  "tags" : "Miscellaneous",
+  "description" : "another patch i should've done ages ago\n\nremoves the lil starbound symbols from legacy codexes so they blend seamlessly with the vanilla codexes.\n\nrequires my legacy lore mod, obviously: https://steamcommunity.com/sharedfiles/filedetails/?id=1331469246",
+  "name" : "gensou's legacy lore - no marks",
+  "friendlyName" : "gensou's legacy lore - no marks",
+  "steamContentId" : "3423620747",
+  "link" : "steam://url/CommunityFilePage/3423620747",
+  "includes" : ["gensou's legacy lore"]
+}

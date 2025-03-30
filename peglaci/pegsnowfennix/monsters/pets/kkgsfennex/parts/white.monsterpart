@@ -1,0 +1,9 @@
+{
+  "name" : "white",
+  "category" : "kkgsfennexpet",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "white.png"
+  }
+}

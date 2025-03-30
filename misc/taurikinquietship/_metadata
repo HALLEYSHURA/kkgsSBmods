@@ -1,0 +1,11 @@
+{
+  "version" : "1.0",
+  "author" : "kokorogensou",
+  "tags" : "Miscellaneous|Ships",
+  "description" : "why does a bench make noise\n\ndisables the ambient sound in taurikin ships. based off gay moth aunt's quiet ships mod: https://steamcommunity.com/sharedfiles/filedetails/?id=893734804&searchtext=quiet+ship",
+  "name" : "quiet taurikin ship",
+  "friendlyName" : "quiet taurikin ship",
+  "steamContentId" : "3448812117",
+  "link" : "steam://url/CommunityFilePage/3448812117",
+  "includes" : ["Taurikin Race"]
+}

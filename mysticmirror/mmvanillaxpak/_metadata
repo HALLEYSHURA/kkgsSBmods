@@ -1,0 +1,11 @@
+{
+  "version" : "1.0.1",
+  "tags" : "Miscellaneous",
+  "author" : "kokorogensou",
+  "description" : "gives the mystic mirror 6 more sandbox worlds for you to dink around in",
+  "requires" : ["kkgsdreamsandbox"],
+  "name" : "kkgsdreamsandboxxpak1",
+  "steamContentId" : "1898482995",
+  "friendlyName" : "MYSTIC MIRROR expansion kit",
+  "link" : "steam://url/CommunityFilePage/1898482995"
+}

@@ -1,0 +1,11 @@
+{
+  "version" : "1.0.3",
+  "tags" : "Planets and Environments|Dungeons",
+  "author" : "kokorogensou",
+  "description" : "a patch for FU and Kawa's felin race mod. allows felin settlements to spawn on FU planets.\n\nobviously you won't find them in every biome, but you'll have better luck finding them in bogs, red deserts, primeval, chromatic, rainforest, and eden planets. c:\n\nmay tweak spawns to make them more lore-friendly. if anything borks up, please let me know.",
+  "name" : "fuvillfelin",
+  "friendlyName" : "felin towns on frackin' planets",
+  "steamContentId" : "1432556830",
+  "link" : "steam://url/CommunityFilePage/1432556830",
+  "includes" : ["Felins", "FrackinUniverse"]
+}

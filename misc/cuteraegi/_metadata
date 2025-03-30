@@ -1,11 +1,11 @@
 {
+  "version" : "1.0.2 final probably i hope",
+  "tags" : "Species",
   "author" : "kokorogensou",
   "description" : "someone was gonna do it eventually\n\nmay change the eye color or do other minor tweaks if there's enough demand.\n\nrequires the Elithian Races mod, obviously.\n\noriginal Cutebound mod+sprites by Barb-tan and HDoomGuy.",
-  "friendlyName" : "make the aegi a cuter race",
-  "includes" : ["Elithian_Races_Mod"],
-  "link" : "steam://url/CommunityFilePage/1430995820",
   "name" : "make the aegi a cuter race",
+  "friendlyName" : "make the aegi a cuter race",
   "steamContentId" : "1430995820",
-  "tags" : "Species",
-  "version" : "1.0.2 final probably i hope"
+  "link" : "steam://url/CommunityFilePage/1430995820",
+  "includes" : ["Elithian_Races_Mod"]
 }

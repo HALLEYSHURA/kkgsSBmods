@@ -1,0 +1,11 @@
+{
+  "version" : "1.0",
+  "author" : "gensou ichida",
+  "tags" : "Miscellaneous|Dungeons",
+  "description" : "years ago, i did some minor spritework for FU, among a few other things for it. one of these things were unique icons for each of the Extra Dungeons missions bundled into the mod.\n\nsomehow i never thought to make them a seperate patch for the standalone ED mod until now. oops.\n\nobviously requires the original Extra Dungeons mod to work.",
+  "name" : "extra dungeons mission icons",
+  "friendlyName" : "extra dungeons mission icons",
+  "steamContentId" : "3412262127",
+  "link" : "steam://url/CommunityFilePage/3412262127",
+  "includes" : ["Extra Dungeons"]
+}

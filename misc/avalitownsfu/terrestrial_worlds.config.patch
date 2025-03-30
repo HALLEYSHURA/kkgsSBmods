@@ -1,0 +1,50 @@
+[
+  {
+    "op": "add",
+    "path": "/planetTypes/chromatic/layers/surface/dungeons/-",
+    "value": [
+      1.0,
+      "avalicamp"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/eden/layers/surface/dungeons/-",
+    "value": [
+      1.0,
+      "avalicamp"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/icewaste/layers/surface/dungeons/-",
+    "value": [
+      1.0,
+      "avalicamp"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/icewastedark/layers/surface/dungeons/-",
+    "value": [
+      1.0,
+      "avalicamp"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/snowdark/layers/surface/dungeons/-",
+    "value": [
+      1.0,
+      "avalicamp"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/tundradark/layers/surface/dungeons/-",
+    "value": [
+      1.0,
+      "avalicamp"
+    ]
+  }
+]

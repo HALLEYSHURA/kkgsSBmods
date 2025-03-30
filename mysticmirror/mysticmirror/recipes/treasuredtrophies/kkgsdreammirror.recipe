@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "scorchedcore", "count" : 10 },
+    { "item" : "cryonicextract", "count" : 10 },
+    { "item" : "venomsample", "count" : 10 },
+    { "item" : "staticcell", "count" : 10 },
+	{ "item" : "phasematter", "count" : 10 },
+    { "item" : "prisiliteore", "count" : 50 }
+  ],
+  "output" : { "item" : "kkgsdreammirror", "count" : 1 },
+  "groups" : [ "treasuredtrophies" ]
+}

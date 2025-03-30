@@ -1,0 +1,14 @@
+{
+  "currencyInputs" : {
+    "essence" : 5000
+  },
+  "input" : [
+    { "item" : "stickofram", "count" : 25 }
+  ],
+  "output" : {
+    "item" : "terraformerkkgsvirtua",
+    "count" : 1
+  },
+  "duration" : 0,
+  "groups" : [ "terraforge", "all" ]
+}

@@ -1,0 +1,11 @@
+{
+  "version" : "1.0.2 final probably i hope",
+  "tags" : "Species",
+  "author" : "kokorogensou",
+  "description" : "same as my other \"cuter aegi\" mod, just with bigger eyes for male aegi. use one mod or the other; not both.\n\nrequires the Elithian Races mod, obviously.\n\noriginal Cutebound mod+sprites by Barb-tan and HDoomGuy.",
+  "name" : "make the aegi a cuter race male eyes",
+  "friendlyName" : "make the aegi a cuter race male eyes",
+  "steamContentId" : "1431620296",
+  "link" : "steam://url/CommunityFilePage/1431620296",
+  "includes" : ["Elithian_Races_Mod"]
+}

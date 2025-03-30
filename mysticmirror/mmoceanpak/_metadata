@@ -1,0 +1,11 @@
+{
+  "version" : "1.0",
+  "tags" : "Miscellaneous",
+  "author" : "kokorogensou",
+  "description" : "gives the mystic mirror 3 more sandboxes based off 'ocean' planets",
+  "requires" : ["kkgsdreamsandbox"],
+  "name" : "kkgsdreamsandboxxpak2",
+  "friendlyName" : "MYSTIC MIRROR - oceans pak",
+  "steamContentId" : "1899599115",
+  "link" : "steam://url/CommunityFilePage/1899599115"
+}

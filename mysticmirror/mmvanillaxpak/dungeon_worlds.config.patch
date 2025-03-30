@@ -1,0 +1,98 @@
+[
+  {
+    "op" : "add",
+    "path" : "/kkgsdreamsavannah",
+    "value" : {
+      "primaryDungeon" : "kkgsdreamworld",
+      "threatLevel" : 1,
+      "gravity" : 60,
+      "worldSize" : [500, 500],
+      "dungeonBaseHeight" : 75,
+      "ambientLightLevel" : [128, 128, 128],
+	  "ambientNoises" : "/sfx/environmental/savannah_night.ogg",
+	  "biome" : "savannah",
+      "environmentStatusEffects" : ["dontstarve"],
+	  "musicTrack" : "/music/mira.ogg"
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/kkgsdreammidnight",
+    "value" : {
+      "primaryDungeon" : "kkgsdreamworld",
+      "threatLevel" : 1,
+      "gravity" : 60,
+      "worldSize" : [500, 500],
+      "dungeonBaseHeight" : 75,
+      "ambientLightLevel" : [128, 128, 128],
+	  "ambientNoises" : "/sfx/environmental/tundra_day.ogg",
+	  "biome" : "midnight",
+      "environmentStatusEffects" : ["dontstarve"],
+	  "musicTrack" : "/music/mira.ogg"
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/kkgsdreamsnow",
+    "value" : {
+      "primaryDungeon" : "kkgsdreamworld",
+      "threatLevel" : 1,
+      "gravity" : 60,
+      "worldSize" : [500, 500],
+      "dungeonBaseHeight" : 75,
+      "ambientLightLevel" : [128, 128, 128],
+	  "ambientNoises" : "/sfx/environmental/snow_night.ogg",
+	  "biome" : "snow",
+      "environmentStatusEffects" : ["dontstarve"],
+	  "musicTrack" : "/music/mira.ogg"
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/kkgsdreamscorched",
+    "value" : {
+      "primaryDungeon" : "kkgsdreamworld",
+      "threatLevel" : 1,
+      "gravity" : 60,
+      "worldSize" : [500, 500],
+      "dungeonBaseHeight" : 75,
+      "ambientLightLevel" : [128, 128, 128],
+	  "ambientNoises" : "/sfx/environmental/arid_night.ogg",
+	  "biome" : "scorchedcity",
+      "environmentStatusEffects" : ["dontstarve"],
+	  "musicTrack" : "/music/mira.ogg"
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/kkgsdreamtentacle",
+    "value" : {
+      "primaryDungeon" : "kkgsdreamworld",
+      "threatLevel" : 1,
+      "gravity" : 60,
+      "worldSize" : [500, 500],
+      "dungeonBaseHeight" : 75,
+      "ambientLightLevel" : [128, 128, 128],
+	  "ambientNoises" : "/sfx/environmental/tentacle_loop2.ogg",
+	  "biome" : "tentacle",
+      "environmentStatusEffects" : ["dontstarve"],
+	  "musicTrack" : "/music/mira.ogg"
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/kkgsdreamcyberspace",
+    "value" : {
+      "primaryDungeon" : "kkgsdreamworld",
+      "threatLevel" : 1,
+      "gravity" : 60,
+      "worldSize" : [500, 500],
+      "dungeonBaseHeight" : 75,
+      "ambientLightLevel" : [128, 128, 128],
+	  "ambientNoises" : "/sfx/environmental/space_loop4.ogg",
+	  "biome" : "cyberspace",
+      "environmentStatusEffects" : ["dontstarve"],
+	  "musicTrack" : "/music/mira.ogg"
+    }
+  }
+]

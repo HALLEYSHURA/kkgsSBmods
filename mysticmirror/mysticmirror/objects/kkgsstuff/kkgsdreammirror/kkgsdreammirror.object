@@ -1,0 +1,40 @@
+{
+  "objectName" : "kkgsdreammirror",
+  "category" : "Object",
+  "rarity" : "Legendary",
+  "description" : "A strange mirror. Interact with to transport to various sandbox dreams.",
+  "shortdescription" : "Mystic Mirror",
+  "race" : "generic",
+  "printable" : false,
+  "learnBlueprintsOnPickup" : [ "kkgsdreamingflag" ],
+  "price" : 2500,
+
+  "apexDescription" : "Sometimes the best escape is in one's dreams.",
+  "avianDescription" : "Hm... I've heard rumors of the Stargazers having mirrors like these...",
+  "floranDescription" : "Ssshiny mirror make Floran feel happy.",
+  "glitchDescription" : "Wonder. Will this mirror make me dream of electric sheep?",
+  "humanDescription" : "Whoa, I'm seeing stars...",
+  "hylotlDescription" : "A portal to a peaceful escape. So the merchant told me, anyway...",
+  "novakidDescription" : "Mighty odd lookin' mirror there. I wonder...",
+  "feneroxDescription" : "Odd mirror. Feeling sleepy. And creative.",
+  "shadowDescription" : "...?",
+
+  "inventoryIcon" : "kkgsdreammirror.png",
+  "orientations" : [
+    {
+      "dualImage" : "kkgsdreammirror.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ],
+
+  "interactAction" : "OpenTeleportDialog",
+  "interactData" : "/interface/warping/kkgsdreammirror.config"
+
+}

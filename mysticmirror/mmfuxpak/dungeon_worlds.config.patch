@@ -1,0 +1,194 @@
+[
+  {
+    "op" : "add",
+    "path" : "/kkgsdreamfuaether",
+    "value" : {
+      "primaryDungeon" : "kkgsdreamworld",
+      "threatLevel" : 1,
+      "gravity" : 60,
+      "worldSize" : [500, 500],
+      "dungeonBaseHeight" : 75,
+      "ambientLightLevel" : [128, 128, 128],
+	  "ambientNoises" : "/sfx/ambiance/sulphuricambiance2.ogg",
+	  "biome" : "aethersea",
+      "environmentStatusEffects" : ["dontstarve"],
+	  "musicTrack" : "/music/mira.ogg"
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/kkgsdreamfuarboreal",
+    "value" : {
+      "primaryDungeon" : "kkgsdreamworld",
+      "threatLevel" : 1,
+      "gravity" : 60,
+      "worldSize" : [500, 500],
+      "dungeonBaseHeight" : 75,
+      "ambientLightLevel" : [128, 128, 128],
+	  "ambientNoises" : "/sfx/ambiance/arborealambiance.ogg",
+	  "biome" : "arboreal",
+      "environmentStatusEffects" : ["dontstarve"],
+	  "musicTrack" : "/music/mira.ogg"
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/kkgsdreamfuatropus",
+    "value" : {
+      "primaryDungeon" : "kkgsdreamworld",
+      "threatLevel" : 1,
+      "gravity" : 60,
+      "worldSize" : [500, 500],
+      "dungeonBaseHeight" : 75,
+      "ambientLightLevel" : [128, 128, 128],
+	  "ambientNoises" : "/sfx/ambiance/bloodstoneambiance.ogg",
+	  "biome" : "atropus",
+      "environmentStatusEffects" : ["dontstarve"],
+	  "musicTrack" : "/music/mira.ogg"
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/kkgsdreamfubog",
+    "value" : {
+      "primaryDungeon" : "kkgsdreamworld",
+      "threatLevel" : 1,
+      "gravity" : 60,
+      "worldSize" : [500, 500],
+      "dungeonBaseHeight" : 75,
+      "ambientLightLevel" : [128, 128, 128],
+	  "ambientNoises" : "/sfx/ambiance/bogambiance1.ogg",
+	  "biome" : "bog",
+      "environmentStatusEffects" : ["dontstarve"],
+	  "musicTrack" : "/music/mira.ogg"
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/kkgsdreamfucrystal",
+    "value" : {
+      "primaryDungeon" : "kkgsdreamworld",
+      "threatLevel" : 1,
+      "gravity" : 60,
+      "worldSize" : [500, 500],
+      "dungeonBaseHeight" : 75,
+      "ambientLightLevel" : [128, 128, 128],
+	  "ambientNoises" : "/sfx/environmental/aviantomb.ogg",
+	  "biome" : "crystalmoon",
+      "environmentStatusEffects" : ["dontstarve"],
+	  "musicTrack" : "/music/mira.ogg"
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/kkgsdreamfuhailfire",
+    "value" : {
+      "primaryDungeon" : "kkgsdreamworld",
+      "threatLevel" : 1,
+      "gravity" : 60,
+      "worldSize" : [500, 500],
+      "dungeonBaseHeight" : 75,
+      "ambientLightLevel" : [128, 128, 128],
+	  "ambientNoises" : "/sfx/environmental/arctic_night.ogg",
+	  "biome" : "frozenvolcanic",
+      "environmentStatusEffects" : ["dontstarve"],
+	  "musicTrack" : "/music/mira.ogg"
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/kkgsdreamfufungus",
+    "value" : {
+      "primaryDungeon" : "kkgsdreamworld",
+      "threatLevel" : 1,
+      "gravity" : 60,
+      "worldSize" : [500, 500],
+      "dungeonBaseHeight" : 75,
+      "ambientLightLevel" : [128, 128, 128],
+	  "ambientNoises" : "/sfx/ambiance/fungalambiance.ogg",
+	  "biome" : "fungus",
+      "environmentStatusEffects" : ["dontstarve"],
+	  "musicTrack" : "/music/mira.ogg"
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/kkgsdreamfumountain",
+    "value" : {
+      "primaryDungeon" : "kkgsdreamworld",
+      "threatLevel" : 1,
+      "gravity" : 60,
+      "worldSize" : [500, 500],
+      "dungeonBaseHeight" : 75,
+      "ambientLightLevel" : [128, 128, 128],
+	  "ambientNoises" : "/sfx/environmental/snow_night.ogg",
+	  "biome" : "mountainous2",
+      "environmentStatusEffects" : ["dontstarve"],
+	  "musicTrack" : "/music/mira.ogg"
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/kkgsdreamfupenumbra",
+    "value" : {
+      "primaryDungeon" : "kkgsdreamworld",
+      "threatLevel" : 1,
+      "gravity" : 60,
+      "worldSize" : [500, 500],
+      "dungeonBaseHeight" : 75,
+      "ambientLightLevel" : [128, 128, 128],
+	  "ambientNoises" : "/sfx/environmental/jungle_night.ogg",
+	  "biome" : "penumbra",
+      "environmentStatusEffects" : ["dontstarve"],
+	  "musicTrack" : "/music/mira.ogg"
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/kkgsdreamfurainforest",
+    "value" : {
+      "primaryDungeon" : "kkgsdreamworld",
+      "threatLevel" : 1,
+      "gravity" : 60,
+      "worldSize" : [500, 500],
+      "dungeonBaseHeight" : 75,
+      "ambientLightLevel" : [128, 128, 128],
+	  "ambientNoises" : "/sfx/ambiance/rainforestambiance.ogg",
+	  "biome" : "thickjungle",
+      "environmentStatusEffects" : ["dontstarve"],
+	  "musicTrack" : "/music/mira.ogg"
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/kkgsdreamfutide",
+    "value" : {
+      "primaryDungeon" : "kkgsdreamworld",
+      "threatLevel" : 1,
+      "gravity" : 60,
+      "worldSize" : [500, 500],
+      "dungeonBaseHeight" : 75,
+      "ambientLightLevel" : [128, 128, 128],
+	  "ambientNoises" : "/sfx/environmental/ocean_surface_calm.ogg",
+	  "biome" : "tidewater",
+      "environmentStatusEffects" : ["dontstarve"],
+	  "musicTrack" : "/music/mira.ogg"
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/kkgsdreamfuwasteland",
+    "value" : {
+      "primaryDungeon" : "kkgsdreamworld",
+      "threatLevel" : 1,
+      "gravity" : 60,
+      "worldSize" : [500, 500],
+      "dungeonBaseHeight" : 75,
+      "ambientLightLevel" : [128, 128, 128],
+	  "ambientNoises" : "/sfx/environmental/arid_night.ogg",
+	  "biome" : "urbanwasteland2",
+      "environmentStatusEffects" : ["dontstarve"],
+	  "musicTrack" : "/music/mira.ogg"
+    }
+  }
+]

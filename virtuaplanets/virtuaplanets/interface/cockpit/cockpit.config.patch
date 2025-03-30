@@ -1,0 +1,20 @@
+[
+	[
+		{	"op" : "add",
+			"path" : "/visitableTypeDescription/kkgsvirtua",
+			"value" : [
+				"An empty ^magenta;virtual^reset; planet, a perfect template for a world of your design.",
+			"Perhaps this ^magenta;virtual^reset; world was meant to be a framework for a new civilization. Whatever the case, it's empty now.",
+			"Curiously, this ^magenta;virtual^reset; world is composed entirely of \"Hard Light\". It is completely barren."
+			]
+		},
+		{	"op" : "add",
+			"path" : "/planetTypeNames/kkgsvirtua",
+			"value" : "Virtua"
+		},
+		{	"op" : "add",
+			"path" : "/planetTypeColors/kkgsvirtua",
+			"value" : [200, 50, 255]
+		}
+	]
+]

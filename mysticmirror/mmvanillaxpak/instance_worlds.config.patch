@@ -1,0 +1,236 @@
+[
+  {
+    "op" : "add",
+    "path" : "/kkgsdreamsavannah",
+    "value" : {
+      "type" : "FloatingDungeon",
+      "dungeonWorld" : "kkgsdreamsavannah",
+      "seed" : 1234,
+      "persistent" : true,
+	  "useUniverseClock" : true,
+      "beamUpRule" : "Anywhere",
+      "spawningEnabled" : false,
+      "disableDeathDrops" : true,
+
+      "skyParameters" : {
+      "spaceLevel" : 3000,
+      "ambientLightLevel" : [ 24, 28, 24 ],
+	  
+      "skyType" : "barren",
+      "horizonImages" : [ ],
+      "dayLength" : 2000,
+      "surfaceLevel" : 1200,
+      "seed" : -5288806180628666923,
+	  
+	  "skyColoring" : {
+        "mainColor" : [255, 255, 255],
+
+      "morningColors" : [ [242, 120, 0], [255, 230, 176] ],
+      "dayColors" : [ [115, 224, 255], [255, 255, 255] ],
+      "eveningColors" : [ [125, 17, 158], [210, 52, 50] ],
+      "nightColors" : [ [24, 38, 53, 80], [58, 42, 70, 160] ],
+
+      "morningLightColor" : [140, 71, 0],
+      "dayLightColor" : [200, 200, 200],
+      "eveningLightColor" : [160, 120, 180],
+      "nightLightColor" : [40, 20, 60]
+        }
+      }
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/kkgsdreammidnight",
+    "value" : {
+      "type" : "FloatingDungeon",
+      "dungeonWorld" : "kkgsdreammidnight",
+      "seed" : 1234,
+      "persistent" : true,
+	  "useUniverseClock" : true,
+      "beamUpRule" : "Anywhere",
+      "spawningEnabled" : false,
+      "disableDeathDrops" : true,
+
+      "skyParameters" : {
+      "spaceLevel" : 3000,
+      "ambientLightLevel" : [ 24, 28, 24 ],
+	  
+      "skyType" : "barren",
+      "horizonImages" : [ ],
+      "dayLength" : 2000,
+      "surfaceLevel" : 1200,
+      "seed" : -5288806180628666923,
+	  
+	  "skyColoring" : {
+        "mainColor" : [255, 255, 255],
+
+      "morningColors" : [ [242, 120, 0], [255, 230, 176] ],
+      "dayColors" : [ [115, 224, 255], [255, 255, 255] ],
+      "eveningColors" : [ [125, 17, 158], [210, 52, 50] ],
+      "nightColors" : [ [24, 38, 53, 80], [58, 42, 70, 160] ],
+
+      "morningLightColor" : [140, 71, 0],
+      "dayLightColor" : [200, 200, 200],
+      "eveningLightColor" : [160, 120, 180],
+      "nightLightColor" : [40, 20, 60]
+        }
+      }
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/kkgsdreamsnow",
+    "value" : {
+      "type" : "FloatingDungeon",
+      "dungeonWorld" : "kkgsdreamsnow",
+      "seed" : 1234,
+      "persistent" : true,
+	  "useUniverseClock" : true,
+      "beamUpRule" : "Anywhere",
+      "spawningEnabled" : false,
+      "disableDeathDrops" : true,
+
+      "skyParameters" : {
+      "spaceLevel" : 3000,
+      "ambientLightLevel" : [ 24, 28, 24 ],
+	  
+      "skyType" : "barren",
+      "horizonImages" : [ ],
+      "dayLength" : 2000,
+      "surfaceLevel" : 1200,
+      "seed" : -5288806180628666923,
+	  
+	  "skyColoring" : {
+        "mainColor" : [255, 255, 255],
+
+      "morningColors" : [ [242, 120, 0], [255, 230, 176] ],
+      "dayColors" : [ [115, 224, 255], [255, 255, 255] ],
+      "eveningColors" : [ [125, 17, 158], [210, 52, 50] ],
+      "nightColors" : [ [24, 38, 53, 80], [58, 42, 70, 160] ],
+
+      "morningLightColor" : [140, 71, 0],
+      "dayLightColor" : [200, 200, 200],
+      "eveningLightColor" : [160, 120, 180],
+      "nightLightColor" : [40, 20, 60]
+        }
+      }
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/kkgsdreamscorched",
+    "value" : {
+      "type" : "FloatingDungeon",
+      "dungeonWorld" : "kkgsdreamscorched",
+      "seed" : 1234,
+      "persistent" : true,
+	  "useUniverseClock" : true,
+      "beamUpRule" : "Anywhere",
+      "spawningEnabled" : false,
+      "disableDeathDrops" : true,
+
+      "skyParameters" : {
+      "spaceLevel" : 3000,
+      "ambientLightLevel" : [ 24, 28, 24 ],
+	  
+      "skyType" : "barren",
+      "horizonImages" : [ ],
+      "dayLength" : 2000,
+      "surfaceLevel" : 1200,
+      "seed" : -5288806180628666923,
+	  
+	  "skyColoring" : {
+        "mainColor" : [255, 255, 255],
+
+      "morningColors" : [ [242, 120, 0], [255, 230, 176] ],
+      "dayColors" : [ [115, 224, 255], [255, 255, 255] ],
+      "eveningColors" : [ [125, 17, 158], [210, 52, 50] ],
+      "nightColors" : [ [24, 38, 53, 80], [58, 42, 70, 160] ],
+
+      "morningLightColor" : [140, 71, 0],
+      "dayLightColor" : [200, 200, 200],
+      "eveningLightColor" : [160, 120, 180],
+      "nightLightColor" : [40, 20, 60]
+        }
+      }
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/kkgsdreamtentacle",
+    "value" : {
+      "type" : "FloatingDungeon",
+      "dungeonWorld" : "kkgsdreamtentacle",
+      "seed" : 1234,
+      "persistent" : true,
+	  "useUniverseClock" : true,
+      "beamUpRule" : "Anywhere",
+      "spawningEnabled" : false,
+      "disableDeathDrops" : true,
+
+      "skyParameters" : {
+      "spaceLevel" : 3000,
+      "ambientLightLevel" : [ 24, 28, 24 ],
+	  
+      "skyType" : "barren",
+      "horizonImages" : [ ],
+      "dayLength" : 2000,
+      "surfaceLevel" : 1200,
+      "seed" : -5288806180628666923,
+	  
+	  "skyColoring" : {
+        "mainColor" : [255, 255, 255],
+
+      "morningColors" : [ [242, 120, 0], [255, 230, 176] ],
+      "dayColors" : [ [115, 224, 255], [255, 255, 255] ],
+      "eveningColors" : [ [125, 17, 158], [210, 52, 50] ],
+      "nightColors" : [ [24, 38, 53, 80], [58, 42, 70, 160] ],
+
+      "morningLightColor" : [140, 71, 0],
+      "dayLightColor" : [200, 200, 200],
+      "eveningLightColor" : [160, 120, 180],
+      "nightLightColor" : [40, 20, 60]
+        }
+      }
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/kkgsdreamcyberspace",
+    "value" : {
+      "type" : "FloatingDungeon",
+      "dungeonWorld" : "kkgsdreamcyberspace",
+      "seed" : 1234,
+      "persistent" : true,
+	  "useUniverseClock" : true,
+      "beamUpRule" : "Anywhere",
+      "spawningEnabled" : false,
+      "disableDeathDrops" : true,
+
+      "skyParameters" : {
+      "spaceLevel" : 3000,
+      "ambientLightLevel" : [ 24, 28, 24 ],
+	  
+      "skyType" : "barren",
+      "horizonImages" : [ ],
+      "dayLength" : 2000,
+      "surfaceLevel" : 1200,
+      "seed" : -5288806180628666923,
+	  
+	  "skyColoring" : {
+        "mainColor" : [255, 255, 255],
+
+      "morningColors" : [ [242, 120, 0], [255, 230, 176] ],
+      "dayColors" : [ [115, 224, 255], [255, 255, 255] ],
+      "eveningColors" : [ [125, 17, 158], [210, 52, 50] ],
+      "nightColors" : [ [24, 38, 53, 80], [58, 42, 70, 160] ],
+
+      "morningLightColor" : [140, 71, 0],
+      "dayLightColor" : [200, 200, 200],
+      "eveningLightColor" : [160, 120, 180],
+      "nightLightColor" : [40, 20, 60]
+        }
+      }
+    }
+  }
+]

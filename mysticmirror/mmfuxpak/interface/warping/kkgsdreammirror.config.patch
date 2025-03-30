@@ -1,0 +1,122 @@
+[
+	{
+		"op" : "add",
+		"path" : "/destinations/-",
+		"value" : {
+				"name" : "PRIMALIS",
+				"planetName" : "An ancient forest.",
+				"warpAction" : "InstanceWorld:kkgsdreamfuarboreal",
+				"icon" : "arboreal"
+		}
+	},
+	{
+		"op" : "add",
+		"path" : "/destinations/-",
+		"value" : {
+				"name" : "AMAZONIA",
+				"planetName" : "Dream green.",
+				"warpAction" : "InstanceWorld:kkgsdreamfurainforest",
+				"icon" : "thickjungle"
+		}
+	},
+	{
+		"op" : "add",
+		"path" : "/destinations/-",
+		"value" : {
+				"name" : "ALPINUS",
+				"planetName" : "High-altitude dreaming.",
+				"warpAction" : "InstanceWorld:kkgsdreamfumountain",
+				"icon" : "mountainous"
+		}
+	},
+	{
+		"op" : "add",
+		"path" : "/destinations/-",
+		"value" : {
+				"name" : "MYCONIA",
+				"planetName" : "Dreaming of shrooms.",
+				"warpAction" : "InstanceWorld:kkgsdreamfufungus",
+				"icon" : "fungus"
+		}
+	},
+	{
+		"op" : "add",
+		"path" : "/destinations/-",
+		"value" : {
+				"name" : "URMIRE",
+				"planetName" : "A murky marsh.",
+				"warpAction" : "InstanceWorld:kkgsdreamfubog",
+				"icon" : "bog"
+		}
+	},
+	{
+		"op" : "add",
+		"path" : "/destinations/-",
+		"value" : {
+				"name" : "HAILFIRE",
+				"planetName" : "Warm stone and chilled air.",
+				"warpAction" : "InstanceWorld:kkgsdreamfuhailfire",
+				"icon" : "frozenvolcanic"
+		}
+	},
+	{
+		"op" : "add",
+		"path" : "/destinations/-",
+		"value" : {
+				"name" : "CRYSTALLUM",
+				"planetName" : "Shiny!",
+				"warpAction" : "InstanceWorld:kkgsdreamfucrystal",
+				"icon" : "crystalmoon"
+		}
+	},
+	{
+		"op" : "add",
+		"path" : "/destinations/-",
+		"value" : {
+				"name" : "OSCURO",
+				"planetName" : "A shady forest.",
+				"warpAction" : "InstanceWorld:kkgsdreamfupenumbra",
+				"icon" : "penumbra"
+		}
+	},
+	{
+		"op" : "add",
+		"path" : "/destinations/-",
+		"value" : {
+				"name" : "LANTEA",
+				"planetName" : "Spires reaching from a dark sea.",
+				"warpAction" : "InstanceWorld:kkgsdreamfutide",
+				"icon" : "tidewater"
+		}
+	},
+	{
+		"op" : "add",
+		"path" : "/destinations/-",
+		"value" : {
+				"name" : "AETHERA",
+				"planetName" : "Darkened cliffs tower above.",
+				"warpAction" : "InstanceWorld:kkgsdreamfuaether",
+				"icon" : "aethersea"
+		}
+	},
+	{
+		"op" : "add",
+		"path" : "/destinations/-",
+		"value" : {
+				"name" : "DUST",
+				"planetName" : "Ashes to ashes...",
+				"warpAction" : "InstanceWorld:kkgsdreamfuwasteland",
+				"icon" : "urbanwasteland"
+		}
+	},
+	{
+		"op" : "add",
+		"path" : "/destinations/-",
+		"value" : {
+				"name" : "ATROPUS",
+				"planetName" : "Oh. Oh god.",
+				"warpAction" : "InstanceWorld:kkgsdreamfuatropus",
+				"icon" : "atropus"
+		}
+	}
+]

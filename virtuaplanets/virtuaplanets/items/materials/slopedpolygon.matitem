@@ -1,0 +1,14 @@
+{
+  "itemName" : "slopedpolygon",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "slopedpolygon.png",
+  "shortdescription" : "Polygon Panel",
+  "description" : "A curious material made of \"Hard Light\".",
+  "glitchdescription" : "Observant. This matter is made of \"Hard Light\".",
+  "florandescription" : "It feelsss electric.",
+
+  "materialId" : 310,
+  "learnBlueprintsOnPickup" : [ "polygonplatform", "slopedpolygon" ]
+}

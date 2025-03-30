@@ -1,0 +1,52 @@
+[
+
+{"op" : "add",
+"path" : "/terrestrialHorizonGraphics/kkgsvirtua",
+"value" :
+{
+ "baseImages" : "/celestial/system/terrestrial/horizon/textures/kkgsvirtua_<selector>.png",
+      "maskPerPlanetRange" : [0, 0]
+}},
+
+{"op" : "add",
+	"path" : "/terrestrialGraphics/kkgsvirtua",
+	"value" :
+{
+      "baseImages" : "/celestial/system/terrestrial/biomes/kkgsvirtua/maskie<num>.png",
+      "baseCount" : 3,
+		"dynamicsImages" : "/celestial/system/terrestrial/dynamics/kkgsvirtua/<num>.png",
+		"dynamicsRange" : [1, 4]
+}},
+
+{"op":"add",
+	"path":"/planetaryTypes/Tier4/baseParameters/terrestrialType/-",
+	"value":"kkgsvirtua"
+},
+
+{"op":"add",
+	"path":"/satelliteTypes/Tier4/baseParameters/terrestrialType/-",
+	"value":"kkgsvirtua"
+},
+
+{"op":"add",
+	"path":"/planetaryTypes/Tier5/baseParameters/terrestrialType/-",
+	"value":"kkgsvirtua"
+},
+
+{"op":"add",
+	"path":"/satelliteTypes/Tier5/baseParameters/terrestrialType/-",
+	"value":"kkgsvirtua"
+},
+
+{"op":"add",
+	"path":"/planetaryTypes/Tier6/baseParameters/terrestrialType/-",
+	"value":"kkgsvirtua"
+},
+
+{"op":"add",
+	"path":"/satelliteTypes/Tier6/baseParameters/terrestrialType/-",
+	"value":"kkgsvirtua"
+}
+
+
+]

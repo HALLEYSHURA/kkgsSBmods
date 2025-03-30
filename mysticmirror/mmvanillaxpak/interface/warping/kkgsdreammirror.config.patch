@@ -1,0 +1,62 @@
+[
+	{
+		"op" : "add",
+		"path" : "/destinations/-",
+		"value" : {
+				"name" : "VULZERDA",
+				"planetName" : "Arid lands. Dry air. Very nice.",
+				"warpAction" : "InstanceWorld:kkgsdreamsavannah",
+				"icon" : "savannah"
+		}
+	},
+	{
+		"op" : "add",
+		"path" : "/destinations/-",
+		"value" : {
+				"name" : "TENEBRIS",
+				"planetName" : "...",
+				"warpAction" : "InstanceWorld:kkgsdreammidnight",
+				"icon" : "midnight"
+		}
+	},
+	{
+		"op" : "add",
+		"path" : "/destinations/-",
+		"value" : {
+				"name" : "PRINGEX",
+				"planetName" : "A chilly yet comfy hideout.",
+				"warpAction" : "InstanceWorld:kkgsdreamsnow",
+				"icon" : "tundra"
+		}
+	},
+	{
+		"op" : "add",
+		"path" : "/destinations/-",
+		"value" : {
+				"name" : "IMPERATOR",
+				"planetName" : "Rusty and ruined.",
+				"warpAction" : "InstanceWorld:kkgsdreamscorched",
+				"icon" : "scorchedcity"
+		}
+	},
+	{
+		"op" : "add",
+		"path" : "/destinations/-",
+		"value" : {
+				"name" : "TENTALIS",
+				"planetName" : "Dreams of chaos. And tentacles.",
+				"warpAction" : "InstanceWorld:kkgsdreamtentacle",
+				"icon" : "tentacle"
+		}
+	},
+	{
+		"op" : "add",
+		"path" : "/destinations/-",
+		"value" : {
+				"name" : "VIRTUA",
+				"planetName" : "The 80s are forever!",
+				"warpAction" : "InstanceWorld:kkgsdreamcyberspace",
+				"icon" : "alien"
+		}
+	}
+]

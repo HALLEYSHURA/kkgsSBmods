@@ -1,0 +1,11 @@
+{
+  "version" : "1.0.2",
+  "tags" : "Planets and Environments|Dungeons",
+  "author" : "kokorogensou",
+  "description" : "a patch for FU and the Avali Triage race mod. allows avali settlements to spawn on FU planets.\n\navali microdungeons will spawn in quite a few biomes, namely mountainous planets and primeval jungles, alongside an array of other cold-to-moderate climates. larger settlements have a chance to be found on ice wastes, eden planets, and chromatic planets.\n\nmay tweak spawns to make them more lore-friendly. if anything borks up, please let me know.",
+  "name" : "fuvillavali",
+  "friendlyName" : "fuvillavali",
+  "steamContentId" : "1432794738",
+  "link" : "steam://url/CommunityFilePage/1432794738",
+  "includes" : ["Avali", "FrackinUniverse"]
+}

@@ -1,0 +1,7 @@
+[
+    {
+        "op": "replace",
+        "path": "/title",
+        "value": "Personalized Directive List"
+    }
+]

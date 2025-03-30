@@ -1,0 +1,11 @@
+{
+  "version" : "1.0",
+  "tags" : "Miscellaneous",
+  "author" : "kokorogensou",
+  "description" : "gives the mystic mirror 12 more sandbox worlds based off Frackin' Universe biomes",
+  "requires" : ["kkgsdreamsandbox", "FrackinUniverse"],
+  "name" : "kkgsdreamsandboxxpakFU",
+  "friendlyName" : "MYSTIC MIRROR - Frackin' Universe xpak",
+  "steamContentId" : "1899463239",
+  "link" : "steam://url/CommunityFilePage/1899463239"
+}

@@ -1,0 +1,12 @@
+{
+  "version" : "1.0",
+  "tags" : "NPCs and Creatures",
+  "author" : "kokorogensou",
+  "description" : "replacer version of my \"Snowfennix pet for Peglaci\" mod. completely replaces the standard Peglaci ship pet.",
+  "path" : ".",
+  "name" : "Snowfennix pet for Peglaci REPLACER",
+  "friendlyName" : "Snowfennix pet for Peglaci (REPLACER VERSION)",
+  "steamContentId" : "1488357168",
+  "link" : "steam://url/CommunityFilePage/1488357168",
+  "includes" : ["peglaci"]
+}

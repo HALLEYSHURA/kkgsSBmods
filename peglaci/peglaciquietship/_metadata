@@ -1,0 +1,11 @@
+{
+  "version" : "1.0",
+  "tags" : "Miscellaneous|Ships",
+  "author" : "kokorogensou",
+  "description" : "personal patch, but i feel like other people might find it useful so\n\ndisables the ambient sound in peglaci (rebirth) ships. based off gay moth aunt's quiet ships mod: https://steamcommunity.com/sharedfiles/filedetails/?id=893734804&searchtext=quiet+ship",
+  "name" : "quiet peglaci ship",
+  "friendlyName" : "quiet peglaci ship",
+  "steamContentId" : "3424603289",
+  "link" : "steam://url/CommunityFilePage/3424603289",
+  "includes" : ["peglaci"]
+}

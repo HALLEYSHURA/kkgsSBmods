@@ -1,0 +1,50 @@
+[
+  {
+    "op" : "add",
+    "path" : "/kkgsdreamtoxicsea",
+    "value" : {
+      "primaryDungeon" : "kkgsdreamworld",
+      "threatLevel" : 1,
+      "gravity" : 60,
+      "worldSize" : [500, 500],
+      "dungeonBaseHeight" : 75,
+      "ambientLightLevel" : [128, 128, 128],
+	  "ambientNoises" : "/sfx/environmental/ocean_surface_calm.ogg",
+	  "biome" : "toxic",
+      "environmentStatusEffects" : ["dontstarve"],
+	  "musicTrack" : "/music/mira.ogg"
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/kkgsdreamarcticsea",
+    "value" : {
+      "primaryDungeon" : "kkgsdreamworld",
+      "threatLevel" : 1,
+      "gravity" : 60,
+      "worldSize" : [500, 500],
+      "dungeonBaseHeight" : 75,
+      "ambientLightLevel" : [128, 128, 128],
+	  "ambientNoises" : "/sfx/environmental/arctic_night.ogg",
+	  "biome" : "arctic",
+      "environmentStatusEffects" : ["dontstarve"],
+	  "musicTrack" : "/music/mira.ogg"
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/kkgsdreammagmasea",
+    "value" : {
+      "primaryDungeon" : "kkgsdreamworld",
+      "threatLevel" : 1,
+      "gravity" : 60,
+      "worldSize" : [500, 500],
+      "dungeonBaseHeight" : 75,
+      "ambientLightLevel" : [128, 128, 128],
+	  "ambientNoises" : "/sfx/environmental/magma_night.ogg",
+	  "biome" : "magma",
+      "environmentStatusEffects" : ["dontstarve"],
+	  "musicTrack" : "/music/mira.ogg"
+    }
+  }
+]

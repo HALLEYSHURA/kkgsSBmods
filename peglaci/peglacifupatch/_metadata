@@ -1,0 +1,12 @@
+{
+  "version" : "1.0.2",
+  "tags" : "Species",
+  "author" : "kokorogensou",
+  "description" : "compatibility patch for Peglaci Rebirth and Frackin' Universe. addresses some gameplay oddities and inconsistencies between the FU peglaci and the PR peglaci.\n\nfor now, this patch fixes duplicate recipes for both peglaci species. both FU and PR peglaci now use PR recipe lists. that also means FU peglaci can craft PR items!\n\nlet me know if anything borks up! i don't plan on removing or adding anything to the FU peglaci; this patch exists so both mods can interact well without any oddities, and allowing for people to choose between playing the original \"canon\" peglaci or FU's version of the race.",
+  "requires" : [],
+  "name" : "FUPR-Patch",
+  "steamContentId" : "1778112669",
+  "friendlyName" : "Frackin-Rebirth Peglaci Patch",
+  "link" : "steam://url/CommunityFilePage/1778112669",
+  "includes" : ["peglaci", "FrackinUniverse"]
+}

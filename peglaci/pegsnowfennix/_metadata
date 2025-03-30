@@ -1,0 +1,12 @@
+{
+  "version" : "1.1.1",
+  "tags" : "NPCs and Creatures",
+  "author" : "kokorogensou",
+  "description" : "something small done for fun while working on Peglaci Rebirth moddev. and because some peglaci players probably don't want a baby of their own race crawling around their ship.\n\nreplaces the peglaci ship pet with a snowfennix (based off DrPvtSkittles' fennix pet mods (with a slightly different sheet), with colors loosely based off the snowfennix mobs from FU). works with new peglaci characters only, HOWEVER...\n\nPeglaci Rebirth has a weird quirk concerning ship pet spawning. for some reason, whenever the ship is upgraded (or when you're booting SAIL for the first time), the ship pet respawns and changes color if it has multiple colors. this isn't an issue in the base Peglaci Rebirth mod because the ship pet only has one color, but as a result, there's currently only one color for the snowfennix until i can figure out what causes that issue (though this isn't exclusive to the peglaci mod, the callistan mod also has this same quirk).\n\nregardless, enjoy having a differently-shaped fluffy friend aboard your ship. i promise he doesn't bite. c:\n\ni don't plan on making any other snowfennix replacers for other races, though you're free to disassemble the mod if you wanna make one yourself. there's sheets in the root of the mod if you wanna use the sprites/pallettes for whatever.\n\nkudos to DrPvtSkittles for their fennix ship pet mods that i used as a basis for this. they're also free to use the sheets in the mod if they wish to.",
+  "path" : ".",
+  "name" : "Snowfennix pet for Peglaci",
+  "friendlyName" : "Snowfennix pet for Peglaci",
+  "steamContentId" : "1411290422",
+  "link" : "steam://url/CommunityFilePage/1411290422",
+  "includes" : ["peglaci"]
+}
